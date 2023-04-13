@@ -16,14 +16,21 @@ def ques(titleslug):
                      "enableRunCode\n    enableTestMode\n    envInfo\n    libraryUrl\n    __typename\n  }\n}\n"}
 
     r = requests.post('https://leetcode.com/graphql', json=data).json()
-    soup = bs(r['data']['question']['content'], 'lxml')
+    # print(r)
+    soupq = bs(r['data']['question']['content'], 'lxml')
+    soupt = r['data']['question']['topicTags']
+    tags = []
+    for it in soupt:
+        tags.append(it["name"])
+    # print(soupt)
     title = r['data']['question']['title']
-    question = soup.get_text()
+    question = soupq.get_text()
     question = question.split("\nExample")[0]
-    return title, question
+    return title, question, tags
 
 
 if __name__ == "__main__":
-    title, ques = ques("analyze-user-website-visit-pattern")
+    title, ques, tags = ques("lru-cache")
     print(title)
     print(ques)
+    print(tags)

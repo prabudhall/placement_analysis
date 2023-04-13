@@ -10,9 +10,10 @@ for i in range(len(links)):
     links[i] = links[i].split("problems/")[1]
     links[i] = links[i][:len(links[i])-1]
     print(links[i])
-    title, question = ques(links[i])
+    title, question, tags = ques(links[i])
     print(title)
     print(question)
+    print(tags)
     print()
 
 # print(links)
