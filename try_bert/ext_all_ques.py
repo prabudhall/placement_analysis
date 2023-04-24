@@ -6,27 +6,28 @@ def get_ques_list(folder):
     list_of_files = os.listdir()
     all_ques = []
     for filename in list_of_files:
-        doc = Document(filename)
-        # print(filename)
-        # print(doc)
+        if(filename[len(filename)-5:] == '.docx'):
+            doc = Document(filename)
+            # print(filename)
+            # print(doc)
 
-        fullText = []
-        for para in doc.paragraphs:
-            # print(para.text)
-            fullText.append(para.text)
-        # doctxt =  '\n'.join(fullText)
-        doctxt = fullText
-        fullText = []
-        for eachl in doctxt:
-            if len(eachl) == 0:
-                continue
-            elif eachl[0] == 'Q':
-                fullText.append(eachl.split(" ", 1)[1])
-            else:
-                fullText[len(fullText)-1] = fullText[len(fullText)-1] + ' ' + eachl
-        all_ques = all_ques + fullText
-        # print(doctxt)
-        # print(fullText)
+            fullText = []
+            for para in doc.paragraphs:
+                # print(para.text)
+                fullText.append(para.text)
+            # doctxt =  '\n'.join(fullText)
+            doctxt = fullText
+            fullText = []
+            for eachl in doctxt:
+                if len(eachl) == 0:
+                    continue
+                elif eachl[0] == 'Q':
+                    fullText.append(eachl.split(" ", 1)[1])
+                else:
+                    fullText[len(fullText)-1] = fullText[len(fullText)-1] + ' ' + eachl
+            all_ques = all_ques + fullText
+            # print(doctxt)
+            # print(fullText)
     os.chdir("..")
     return all_ques
 
@@ -35,8 +36,7 @@ def get_ques_list(folder):
 if __name__ == "__main__":
     os.chdir("../theory")
     print(os.getcwd())
-
-    print(get_ques_list("networking"))
+    print(get_ques_list("Networking"))
 
     # os.chdir("./networking")
     # list_of_files = os.listdir()
