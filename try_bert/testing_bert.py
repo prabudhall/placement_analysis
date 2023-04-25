@@ -8,7 +8,7 @@ import os
 from transformers import BertConfig, BertModel
 
 def check_for(folder):
-    ques_list = get_ques_list(folder)
+    ques_list_per_company = get_ques_list(folder)
     os.chdir(folder)
     print(os.getcwd(), '\n Now importing model\n')
     # model = BERTopic.load(torch.load('model', map_location=torch.device('cpu')))
@@ -21,34 +21,36 @@ def check_for(folder):
     #     model = pickle.load(torch.load(f, map_location=torch.device('cpu')))
     #     model.to('cpu')
 
+    # device = torch.device('cpu')
+    # model=torch.load('model_direct_pth.pth', map_location=device)
+    # model.eval()
 
-    device = torch.device('cpu')
-    model=torch.load('model_direct_pth.pth', map_location=device)
-    model.eval()
+    model = BERTopic.load('model_cpu')
 
+    for key, value in ques_list_per_company.items():
+        print("For company : ", key)
+        ques_list = value
+        for ques in ques_list:
+            print(ques)
+            # for predicting the topics for any new sentence
+            new_check = ques
 
+            # Find topics
+            num_of_topics = 3
+            similar_topics, similarity = model.find_topics(new_check, top_n=num_of_topics)
 
-    for ques in ques_list:
-        print(ques)
-        # for predicting the topics for any new sentence
-        new_check = ques
+            print(
+                f'The top {num_of_topics} similar topics are {similar_topics}, and the similarities are {np.round(similarity, 2)}')
 
-        # Find topics
-        num_of_topics = 3
-        similar_topics, similarity = model.find_topics(new_check, top_n=num_of_topics)
+            # for printing those 3 topics
+            for index, top in enumerate(similar_topics):
+                keys = [t[0] for t in model.get_topic(top)]
+                print(f'{keys} : with probability \n{np.round(similarity, 2)[index]}')
 
-        print(
-            f'The top {num_of_topics} similar topics are {similar_topics}, and the similarities are {np.round(similarity, 2)}')
-
-        # for printing those 3 topics
-        for index, top in enumerate(similar_topics):
-            keys = [t[0] for t in model.get_topic(top)]
-            print(f'{keys} : with probability \n{np.round(similarity, 2)[index]}')
-
-        print()
-        print()
-        print()
-        sleep(1)
+            print()
+            sleep(1)
+    print()
+    print()
 
     os.chdir('..')
 
