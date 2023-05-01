@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e74271a20b104e10bc45a54b04d678feb1868fe64dc0ac6e596084fc419193e
-size 201
+__pycache__
+__pycache__/*
+.idea
+.idea/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+model_gpu.pkl
+model_cpu.pkl
+model_direct_cpu.pth
+model_direct_pth_gpu.pth
+model_gpu
+
+try model
+try model/*
+
+model_cpu

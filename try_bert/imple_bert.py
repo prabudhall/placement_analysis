@@ -52,7 +52,7 @@ topic_model.visualize_barchart(top_n_topics=12).show()
 
 # if __name__ == "__main__":
 #     os.chdir("../theory")
-#     folder_list = os.listdir()
+#     folder_list =  os.listdir()
 #     ques_list = get_ques_list("networking")
     # print(ques_list)
     # use_bert(ques_list)
