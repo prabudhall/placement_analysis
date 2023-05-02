@@ -15,3 +15,5 @@ try model
 try model/*
 
 model_cpu
+model_cpu_len_gt_2
+model_cpu_no_len

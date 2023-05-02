@@ -25,7 +25,7 @@ def check_for(folder):
     os.chdir(folder)
     print(os.getcwd(), '\n Now importing model\n')
 
-    model = BERTopic.load('model_cpu')
+    model = BERTopic.load('model_cpu_len_gt_2')     # default stored using 'model_cpu'
 
     for key, value in ques_list_per_company.items():
         print("For company : ", key)
