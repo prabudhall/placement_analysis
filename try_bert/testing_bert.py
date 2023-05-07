@@ -16,7 +16,7 @@ def ls(text):
 def pp(text):
     result = []
     for token in gensim.utils.simple_preprocess(text):
-        if token not in gensim.parsing.preprocessing.STOPWORDS and len(token) > 2:
+        if token not in gensim.parsing.preprocessing.STOPWORDS and len(token) > 2:         # for networking > 1
             result.append(ls(token))
     result = ' '.join(result)
     return result
