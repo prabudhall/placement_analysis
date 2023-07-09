@@ -1,0 +1,43 @@
+question,len_2_probab,len_2_topic,ngram_probab,ngram_topic,corr_probab,corr_topic
+dbms,0.68,dbms_2,0.7,dbms_2,0.73,dbms_3
+database,0.69,dbms_2,0.77,database programming_132,0.79,database programming_181
+mention issue traditional file base systems dbms better choice,0.37,dbms_2,0.38,distributed_17,0.41,distributed_28
+explain advantage dbms,0.46,dbms_2,0.49,dbms_2,0.51,dbms_3
+explain different languages present dbms,0.43,dbms_2,0.48,language_207,0.51,language_168
+mean acid properties dbms,0.24,dbms_2,0.27,related data_79,0.27,dbms_3
+null value database blank space zero,0.46,null_143,0.26,sql psm_155,0.6,null_155
+super primary candidate foreign key,0.55,key_17,0.67,key_16,0.66,key_17
+difference primary key unique constraints,0.34,integrity_21,0.48,key_16,0.45,key_17
+mean dbms utility explain rdbms examples,0.42,dbms_2,0.43,dbms_2,0.45,dbms_3
+checkpoint dbms,0.52,log_26,0.75,checkpoint_91,0.49,log_31
+database,0.69,dbms_2,0.77,database programming_132,0.79,database programming_181
+mean data model,0.34,modeling_174,0.43,related data_79,0.44,eer_68
+checkpoint occur dbms,0.48,log_26,0.71,checkpoint_91,0.46,log_31
+difference entity attribute,0.43,multivalued_42,0.62,attribute_161,0.53,multivalued_35
+kinds interactions cater dbms,0.44,dbms_2,0.49,object oriented_40,0.49,object oriented_64
+understand query optimization,0.58,optimization_6,0.74,query_14,0.73,query_1
+consider null value blank space zero,0.52,null_143,0.33,condition_180,0.65,null_155
+understand aggregation atomicity,0.47,atomic_176,0.5,atomic_181,0.52,atomic_179
+different level abstraction dbms,0.36,schema_16,0.48,database programming_132,0.47,uml_149
+entity relationship model,0.6,modeling_174,0.94,entity relationship_196,0.85,eer_68
+understand term entity entity type entity set dbms,0.35,schema_16,0.46,relationship_4,0.45,relationship_2
+mean transparent dbms,0.42,transparency_192,0.5,transparency_208,0.46,transparency_199
+unary operations relational algebra,0.56,algebra_23,0.76,algebra_18,0.75,algebra_21
+rdbms,0.57,dbms_2,0.58,jdbc_28,0.58,jdbc_37
+differnt data model,0.37,modeling_174,0.48,related data_79,0.48,eer_68
+define relation schema relation,0.56,semantics_90,0.84,relation schema_111,0.83,relation schema_114
+degree relation,0.51,algebra_23,0.58,algebra_18,0.58,algebra_21
+relationship,0.77,couple_142,0.81,relation relation_130,0.78,relation_148
+disadvantage file process systems,0.32,transaction_19,0.43,file organization_49,0.42,file organization_67
+explain different type join sql,0.4,nested_179,0.49,data type_112,0.49,data type_90
+primary key sql,0.48,key_17,0.72,key_16,0.68,key_17
+constraints,0.69,integrity_21,0.7,constraint_20,0.71,constraint_26
+difference delete truncate statements sql,0.35,deletion_114,0.44,deletion_144,0.44,deletion_117
+query optimization,0.63,optimization_6,0.84,query_14,0.81,query_1
+give table select departments employees rank accord percentage employees make salary,0.33,salary_32,0.5,salary_25,0.5,salary_50
+give users table write query cumulative number new users add day total reset month,0.3,aggregate_36,0.36,sample query_206,0.34,nested query_184
+give table product subscriptions subscription start date end date user write query return true false user subscription date range overlap user,0.25,nested_179,0.34,nested_195,0.34,nested query_184
+give table students sit test score write query return students closest test score score difference,0.27,grade_69,0.4,sample query_206,0.35,nested query_184
+give table users table demographic information neighborhood live neighborhoods table write query return neighborhoods users,0.26,dimension_160,0.36,dimension_190,0.38,dimension_173
+give table transactions products write query return product id product price average transaction price products price greater average transaction price,0.28,nested_179,0.43,query transaction_131,0.41,query transaction_115
+let table transactions products hypothetically transactions table consist billion row purchase buy users,0.39,transaction_19,0.46,transaction_23,0.46,transaction_20
