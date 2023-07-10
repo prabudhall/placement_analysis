@@ -1,0 +1,35 @@
+question,no_len_probab,no_len_topic,ngram_probab,ngram_topic,corr_probab,corr_topic
+mean network topology,0.39,interconnected_178,0.56,ee_87,0.56,tion_96
+advantage distribute process,0.45,advantage_176,0.61,advantage_176,0.6,advantage_176
+criteria check network reliability,0.29,reliable_266,0.52,measurement_234,0.52,ap_218
+different factor affect performance network,0.31,flow_65,0.51,measurement_234,0.51,ap_218
+make network effective efficient,0.37,bandwidth_145,0.62,measurement_234,0.62,ap_218
+subnet mask work,0.59,subnet_185,0.67,subnet_185,0.62,burst_223
+difference tcp udp protocols use,0.62,udp_68,0.73,udp_68,0.73,area_64
+explain osi model layer,0.49,osi_168,0.7,osi_168,0.7,padded_189
+purpose firewall work,0.7,firewall_118,0.71,firewall_118,0.71,procedure_130
+nat network address translation work,0.55,nat_128,0.65,nat_128,0.64,router_120
+vlan virtual local area network explain work,0.53,vlan_76,0.59,vlan_76,0.45,solution_75
+follow essential characteristics cloud host application reachable network base appliance demand self service broad network access resource pool rapid elasticity,0.25,isp_27,0.36,ee_87,0.36,tion_96
+follow type hardware virtualization guest software run isolate domains mention options emulation virtualization virtualization,0.27,virtual_67,0.32,host_283,0.32,jpeg_258
+follow paas characteristics define cloud service build virtualization technology provide variety service assist development test deployment apps integrate web service databases,0.23,qos_320,0.32,qos_320,0.32,input_135
+data availability security service threaten follow type attack denial service attack masquerade modification message repudiation,0.36,udp_68,0.43,protocol_15,0.44,language_276
+give ip address belong follow ip class class class class class,0.4,ip_20,0.55,ip_20,0.57,iv_56
+follow type cyber attack email show image send victims phishing man middle attack denial service attack sql injection,0.38,smtp_110,0.4,smtp_110,0.4,code_316
+osi reference model follow data units exchange transport layer frame bits segment packet,0.33,rfc_51,0.45,osi_168,0.43,padded_189
+protocol implement follow layer osi model application layer presentation layer physical layer network layer,0.36,protocol_15,0.58,layered_169,0.59,algorithm_124
+difference router switch,0.46,switching_92,0.59,switching_92,0.59,delay_94
+explain concept bandwidth throughput,0.49,flow_65,0.7,bandwidth_145,0.72,ee_87
+dns domain work,0.63,dns_1,0.67,dns_1,0.7,alice_5
+mac address network,0.43,mac_197,0.59,nics_330,0.62,terminology_231
+explain difference public ip address private ip address,0.41,ip_20,0.57,ip_20,0.59,iv_56
+ssl secure sockets layer provide security network communications,0.47,ssl_146,0.58,ssl_146,0.55,cookie_149
+process packet transmit host network,0.43,udp_68,0.57,ttl_53,0.58,rfc_51
+dmz demilitarize zone network security,0.38,firewall_118,0.38,firewall_118,0.38,procedure_130
+bgp border gateway protocol rout internet,0.52,ospf_97,0.7,ospf_97,0.8,cell_256
+explain difference hub switch router,0.43,hub_210,0.64,hub_210,0.61,smtp_110
+dhcp dynamic host configuration protocol work,0.33,arp_73,0.35,arp_73,0.36,physical_83
+tcp establish terminate connections,0.39,port_29,0.62,tcp_107,0.58,udp_68
+purpose arp address resolution protocol work,0.62,arp_73,0.66,arp_73,0.66,physical_83
+explain difference ipv ipv advantage ipv,0.39,ipv_95,0.47,ipv_95,0.45,fig_100
+salesforce example follow type cloud base service saas iaas idaas paas,0.26,subtypes_220,0.36,class_174,0.33,example_246
