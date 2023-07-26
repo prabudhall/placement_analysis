@@ -151,4 +151,4 @@ purpose dhcp network,0.52,arp_73,0.56,arp_73,0.56,physical_83,0.8,dhcp_97,,,0.24
 dhcp dynamic host configuration protocol work,0.33,arp_73,0.35,arp_73,0.36,physical_83,0.59,dhcp_97,,,0.24
 role proxy server,0.34,server_112,0.44,server_112,0.43,certificate_129,0.7,proxy_336,,,0.26
 dhcp briefly,0.53,arp_73,0.56,arp_73,0.57,physical_83,0.86,dhcp_97,,,0.3
-,,,0.576842105,,,,,,,,0.030986842
+,0.477368421,,0.576842105,,0.568486842,,0.607828947,,,,0.030986842

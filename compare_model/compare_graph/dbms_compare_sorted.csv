@@ -1,4 +1,4 @@
-question,len_2_probab,len_2_topic,ngram_probab,ngram_topic,corr_probab,corr_topic,merged_ngram_probab,merged_ngram_topic,,,
+question,len_2_probab,len_2_topic,ngram_probab,ngram_topic,corr_probab,corr_topic,merged_ngram_probab,merged_ngram_topic,,,difference
 data redundancy,0.65,redundancy_183,0.7,redundancy_187,0.7,redundancy_159,0.5,data item_369,,,-0.2
 query optimization,0.63,optimization_6,0.84,query_14,0.81,query_1,0.65,plan_0,,,-0.19
 query optimization,0.63,optimization_6,0.84,query_14,0.81,query_1,0.65,plan_0,,,-0.19
@@ -188,3 +188,4 @@ role database administrator dba dbms environment,0.4,role_163,0.43,role_150,0.48
 role database administrator dba briefly,0.44,role_163,0.45,role_150,0.51,role_172,0.74,administrator_172,,,0.29
 consider null value blank space zero,0.52,null_143,0.33,condition_180,0.65,null_155,0.75,null_430,,,0.42
 null value database blank space zero,0.46,null_143,0.26,sql psm_155,0.6,null_155,0.68,null_430,,,0.42
+,0.411005291,,0.514126984,,0.505820106,,0.562486772,,,,0.048359788
