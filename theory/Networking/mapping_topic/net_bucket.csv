@@ -1,488 +1,488 @@
 Bucket Number,Bucket
--1,-1_network_packet_time_link
-0,0_fiber_cable_twisted_twisted pair
-1,1_dns_dns server_domain_query
-2,2_mail_mail server_user agent_email
-3,3_cipher_ciphertext_block_encryption
-4,4_fig_shown fig_fig example_shown
-5,5_page_browser_web page_web
-6,6_ack_retransmit_duplicate_retransmission
-7,7_isps_isp_tier_access isps
-8,8_band_ghz_frequency_spectrum
-9,9_alice_bob_trudy_message alice
-10,10_telephone_telephone network_telephone company_company
-11,11_sdn_controller_plane_control plane
-12,12_agent_foreign_home agent_mobile node
-13,13_copyright_privacy_law_court
-14,14_byte_length_header_field
-15,15_cache_caching_web cache_cached
-16,16_protocol_new protocol_protocol protocol_protocol work
-17,17_satellite_earth_communication satellite_orbit
-18,18_reliable_reliable data_data transfer_reliable data transfer
-19,19_important_detail_subtle_subtle important
-20,20_rfid_tag_reader_rfid tag
-21,21_mbps_gbps_mbps link_rate mbps
-22,22_cdn_cdn node_cdns_cluster
-23,23_sip_invite_invite message_registrar
-24,24_header_header line_line_response
-25,25_datagram_datagrams_ipv datagram_datagram host
-26,26_bucket_token_token bucket_leaky
-27,27_ethernet_classic ethernet_ethernet ethernet_classic
-28,28_udp_tcp udp_udp tcp_protocol udp
-29,29_mpeg_compression_video_audio
-30,30_rfc_rfcs_defined rfc_rfc rfc
-31,31_subnet_subnets_subnet address_mask
-32,32_output port_port_input port_fabric
-33,33_ip address_ip_address_ip addressing
-34,34_firewall_filter_stateful_packet filter
-35,35_ssl_ssl record_record_tl
-36,36_key_bob_alice_public key
-37,37_signature_digital signature_signed_digital
-38,38_parity_error_bit error_parity bit
-39,39_web_site_world wide web_wide web
-40,40_urity_web urity_url_urity urity
-41,41_multicast_group_multicasting_anycast
-42,42_university_engineering_science_professor
-43,43_skype_voice_video_conference
-44,44_radio_microwave_interference_antenna
-45,45_arp_arp query_arp table_mac address
-46,46_congestion_congestion control_control_congestion control algorithm
-47,47_congestion window_window_slow start_slow
-48,48_data link_data link layer_link layer_frame
-49,49_data center_center_data_data center network
-50,50_network layer network_layer network layer_layer network_network layer
-51,51_fragment_fragmentation_reassembly_fragment fragment
-52,52_cdma_cdma code_code division_code division multiple
-53,53_playout_video_block_freezing
-54,54_html_style_title_sheet
-55,55_service_transport_transport service_layer
-56,56_successor_node_finger_finger table
-57,57_section section_section section section_section_noted section additional
-58,58_distance vector_neighbor_vector_distance
-59,59_rtp_rtsp_rtcp_rtp packet
-60,60_frame_frame length_column_us column
-61,61_fdm_multiplexing_division_division multiplexing
-62,62_blah_iv blah blah_iv blah_fine iv blah
-63,63_technology_industry_growth_innovation
-64,64_example figure_figure_figure example figure_figure example
-65,65_snr_modulation_noise_ratio
-66,66_certificate_ca_revoked_ra
-67,67_header_ip header_ipv_ipv header
-68,68_wireless_wireless network_wireless link_network wireless
-69,69_clock_get sends_sends get sends_sends get
-70,70_network network_network network network_network_cw net
-71,71_transportlayer segment_transportlayer_segment_transport layer
-72,72_window_window size_sliding window_sliding
-73,73_ipv_ipv ipv_ipv address_ip version
-74,74_bgp_ebgp_ibgp_gateway
-75,75_bank_credit_credit card_card
-76,76_ospf_routing_routing protocol_linkstate
-77,77_lan_lan lan_lan lan lan_lan figure
-78,78_mobile_mobile host_mobile ip_mobile node
-79,79_application layer_layer application_application layer application_layer application layer
-80,80_propagation_propagation delay_delay_propagation speed
-81,81_standard_international_standardization_iso
-82,82_collision_detect collision_collide_node
-83,83_figure figure_figure figure figure_figure_figure let figure
-84,84_transport layer_transport layer transport_layer transport_transport
-85,85_delay_average_estimate_average delay
-86,86_network urity_urity_urity network_urity network urity
-87,87_network fig_network shown_graph_network figure
-88,88_send packet_packet_packet sends packet_packet sends
-89,89_netflix_cdn_video_kankan
-90,90_figure shown figure_figure shown_shown figure shown_shown figure
-91,91_xor_mod_arithmetic_modulo
-92,92_rtt_rtts_congestion window_increase
-93,93_rdt_protocol rdt_rdt protocol_rdtsend
-94,94_lost_duplicate_lost packet_packet lost
-95,95_streaming_medium_stored_video
-96,96_bluetooth_bluetooth bluetooth_bluetooth protocol_bluetooth network
-97,97_dhcp_dhcp server_dhcp discover_dhcp client
-98,98_mpls_mpls header_mpls network_ip packet
-99,99_bittorrent_torrent_peer_tracker
-100,100_nonpersistent_persistent_persistent connection_parallel
-101,101_vlan_vlans_vlan aware_switch
-102,102_flag_flag byte_stuffing_byte
-103,103_ap_aps_wireless device_beacon
-104,104_wfq_priority_robin_round robin
-105,105_year_tom_tenure_government
-106,106_flow_bandwidth_fairness_max min
-107,107_al_et al_et_clark
-108,108_algorithm_nagle_converge_offered reward break
-109,109_ipsec_ipsec datagram_datagram_esp
-110,110_hamming_code_convolutional_reed
-111,111_port_port number_port reserved_number
-112,112_cookie_amazon_susans_cookie header
-113,113_solution_problem_solve_problem problem
-114,114_nat_nat box_box_translation
-115,115_voip_voice ip_voice_voip application
-116,116_address_address space_address address_space
-117,117_virtual circuit_virtual_circuit_virtual circuit network
-118,118_segment_lost segment_segment arrive_suppose segment
-119,119_sequence number_sequence_bit sequence number_number
-120,120_bandwidth_network bandwidth_bandwidth efficiently_higher class
-121,121_queuing delay_queuing_delay_queueing
-122,122_alice isp_alice_isp_bob
-123,123_service_class service_besteffort_class
-124,124_checksum_sum_complement_internet checksum
-125,125_rsa_rsa algorithm_algorithm_public key
-126,126_faster_efficiency_performance_improve performance
-127,127_csma_csma cd_cd_collision
-128,128_source port_port_port number_source port number
-129,129_physical layer_physical_layer physical layer_layer physical
-130,130_router_router router_natenabled_natenabled router
-131,131_access control sublayer_control sublayer_medium access control_medium access
-132,132_congestion control_tcp congestion control_congestion_tcp congestion
-133,133_quantization_sample_quantized_dct
-134,134_data link_data link layer_link layer data_link layer
-135,135_sequence number_initial sequence number_initial sequence_sequence
-136,136_wireless lan_lan_wireless_ieee
-137,137_http_http protocol_hypertext transfer protocol_hypertext transfer
-138,138_flow table_flow table entry_table_flow
-139,139_stack_protocol stack_protocol_layer protocol stack
-140,140_acknowledgement_acknowledgement frame_frame_frame received
-141,141_routing algorithm_routing_algorithm_way classify routing
-142,142_urity_encryption_encrypted_encrypt
-143,143_jitter_called jitter_network jitter_delay jitter
-144,144_base station_base_station_cell
-145,145_php_javascript_script_cgi
-146,146_prefix_longest_matching_longest prefix
-147,147_step_figure step_shown step_step step
-148,148_hub_hub switch_switch_switch hub
-149,149_buffer_buffer size_buffering_buffer management
-150,150_authentication server_authentication_ap_wireless client
-151,151_release_released_connection_connection released
-152,152_applet_activex_java_activex control
-153,153_telnet_telnet session_telnet connection_gateway
-154,154_cellular_cellular network_lte_network architecture
-155,155_ieee_acm_standard ieee_ieee ieee
-156,156_icmp_icmp message_ping_echo
-157,157_arpanet_arpa_robert_research
-158,158_sender_sends message_sends message sends_message sends message
-159,159_qos_guarantee_qos guarantee_flow
-160,160_book_chapter_author_reference
-161,161_cost_link cost_cost change_link
-162,162_virus_malware_worm_malicious
-163,163_msc_anchor msc_visited_anchor
-164,164_queue_queued_queue packet_transmission packet
-165,165_checksum_pseudoheader_udp_header
-166,166_tree_spanning tree_spanning_sink
-167,167_forwarding table_forwarding_table_router forwarding table
-168,168_syn_syn segment_segment_syn flood
-169,169_traceroute_traceroute program_traceroutes_trace
-170,170_dtn_bundle_dtn node_dtns
-171,171_sequence number_sequence_packet sequence_packet sequence number
-172,172_request_request reply_response_response message
-173,173_snmp_managing_managing server_managed device
-174,174_tion_tions_following tions_tion look
-175,175_transportlayer protocol_transport protocol_transportlayer_transport
-176,176_mobile web_mobile_web_mobile device
-177,177_interconnected_collection_network network_internet
-178,178_section recall_recall_recall section_recall section recall
-179,179_switching_circuit switching_packet switching_circuit
-180,180_pixel_color_image_rgb
-181,181_channel_signaling_channel allocation_signaling channel
-182,182_udpclient_py_serverport_clientsocket
-183,183_gigabit_gigabit ethernet_ethernet_fast ethernet
-184,184_ct_rts_rts ct_ct frame
-185,185_timer_tick_timer expires_reset
-186,186_table_column table_column_note table
-187,187_input bit_output bit_bit output_output
-188,188_client server_client_client code_clientserver application
-189,189_tunnel_tunneling_ipv_paris
-190,190_ppp_aal_ppp frame_sonet
-191,191_crc_crc code_polynomial_cyclic redundancy check
-192,192_vpn_private network_virtual private_virtual private network
-193,193_procedure_stub_server procedure_remote procedure
-194,194_tcp sender_loss_rate_congestion
-195,195_switch_linklayer switch_packet switch_linklayer
-196,196_country_france_boston ma_sept
-197,197_station_suppose station_numbered station_transmitting station
-198,198_bridge_frame port_port_port bridge
-199,199_timeout_timeouts_timeout interval_timeout event
-200,200_playout_playout delay_talk spurt_spurt
-201,201_mac address_mac_adapter_address adapter
-202,202_wimax_mobile wimax_wimax network_known wimax
-203,203_source_destination_router advertisement_outgoing line
-204,204_data rate_rate_overhead_rate adaptation
-205,205_encoding_ascii_encoded_ascii character
-206,206_sequence number_window_sequence_number
-207,207_downstream_upstream_mbps downstream_upstream downstream
-208,208_sha_hash_hash algorithm_cryptographic hash
-209,209_quality service_quality_service_based quality
-210,210_collision_probability collision_equal probability collision_collision chosen
-211,211_mac address_mac_address field_address
-212,212_fsm_fsm description_description_fsm figure
-213,213_frame_bit frame_bit_error
-214,214_vlr_hlr_visited network_visited
-215,215_authentication_authentication protocol_authorization_simple authentication
-216,216_communication_communication possible_communicate_communication people
-217,217_spam_mail_spammer_junk
-218,218_tcp_tcp implementation_tcp us_ip product
-219,219_forwarding_generalized forwarding_generalized_assured forwarding
-220,220_access protocol_multiple access_multiple access protocol_random access
-221,221_connection_connection establishment_establishment_establishing connection
-222,222_case_case case_consider case_case likely
-223,223_hot potato_potato_hot potato routing_potato routing
-224,224_tcp ip_model_ip model_tcp ip model
-225,225_modem_cable modem_minislots_minislot
-226,226_application buffer_client application_client application buffer_buffer
-227,227_web server_web_companion website_website
-228,228_audio_low_high low_audio http
-229,229_envelope_body_smtp_header
-230,230_label_flow label_path label_different label
-231,231_samplertt_estimatedrtt_samplertt value_value
-232,232_consider figure_figure consider figure_consider figure consider_figure consider
-233,233_aloha_slotted aloha_slotted_efficiency slotted aloha
-234,234_handoff_base station_base_station
-235,235_ipv datagram_datagram format_ipv_ipv datagram format
-236,236_attack_bad guy_guy_security
-237,237_xml_xhtml_html_language
-238,238_data sent_data transmitted_transmit data_data
-239,239_gsm_mobile phone_phone_europe
-240,240_file_large file_file host_host sending
-241,241_congested link_share_bandwidth_equal
-242,242_flooding_flood_link state update_state update
-243,243_handshake_threeway_way handshake_threeway handshake
-244,244_discus_discus discus_ter discus_tion discus
-245,245_ad hoc_hoc_ad_ad hoc network
-246,246_shortest path_shortest_path_compute shortest path
-247,247_probability_slot_probability node_slot probability
-248,248_burst_burst error_burst length_error
-249,249_form_post_method_post method
-250,250_example let_example let look_let look_look example
-251,251_host host_host_channel host_channel host host
-252,252_message_message message_want reply message_want reply
-253,253_idle_channel idle_idle station_channel idle station
-254,254_public key_public_key_key ring
-255,255_chip sequence_chip_sequence_chip sequence station
-256,256_illustrated figure_illustrated_figure illustrated figure_figure illustrated
-257,257_capacity receiver_sender_receiver_rate
-258,258_procedure_parameter_procedure described section_procedure described
-259,259_door_socket_client_serversocket
-260,260_path_path length_path taken_path shown
-261,261_id_signaturebased_signature_snort
-262,262_toll_office_toll office_ixc
-263,263_mtu_path mtu_mtu discovery_path mtu discovery
-264,264_compression_decompressing_compression algorithm_later data
-265,265_osi_osi model_model_osi reference model
-266,266_option_choice_choose option_choose
-267,267_ear_frequency_audibility_threshold audibility
-268,268_token_ring_token ring_ring protocol
-269,269_internet_internet internet_world internet_internetwork
-270,270_bursty_traffic_burst_burst traffic
-271,271_delay_packetization_processing delay time_connected router connected
-272,272_error rate_bit error rate_bit error_error
-273,273_base station_base_wireless host_wireless
-274,274_formula_infinity_approach infinity_formula let
-275,275_kbps_speech_uncompressed_voice
-276,276_multipath_fading_multipath fading_path loss
-277,277_bridge_lan_multidrop_join
-278,278_tcp ip_protocol tcp_tcp ip protocol_ip protocol
-279,279_process_client process_process server_process client
-280,280_traffic_traffic destined_destined_originates unit traffic
-281,281_design_property_worked long huge_large nonetheless
-282,282_distribution time_distribution_minimum distribution_minimum distribution time
-283,283_letter_plaintext_common letter_trigram
-284,284_node_frame node_transmitting frame node_transmitting frame
-285,285_wireshark_wireshark lab_lab_sniffer
-286,286_section described_discussion_described section_section described section
-287,287_method_method method_approach_niche let
-288,288_networking_student want_recommendation student want_recommendation student
-289,289_ond_ond strategy_ond requirement_onds
-290,290_encrypted_ek_plaintext_encrypting
-291,291_internet radio_radio_iptv_radio station
-292,292_nonce_mics_nonce value_protocol us nonce
-293,293_sender figure_figure sender_figure receiver_figure
-294,294_advantage_benefit_strategy advantage advantage_advantage advantage
-295,295_router crash_crash_router_router discarded
-296,296_integrity_message integrity_confidentiality_message integrity technique
-297,297_switch_connection switch_term bridge switch_switch interchangeably
-298,298_nrz_manchester_manchester encoding_encoding
-299,299_hop_time live_counter_time live field
-300,300_area_border router_border_area border router
-301,301_introduction introduction_introduction_introduction introduction introduction_introduction introduction medical
-302,302_router figure_fig router_router fig router_router fig
-303,303_analogy_analogy section_teacher student_clearer
-304,304_address block_ispsrus_block address_block
-305,305_army_blue army_blue_blue army attack
-306,306_tsap_tsap address_portmapper_stable tsap address
-307,307_social_social network_facebook_twitter
-308,308_security_security mechanism_danger information_danger information leaking
-309,309_sonet_carrier_sonet sdh_packet sonet
-310,310_group_working group_working_divided working
-311,311_secure email_email_secure_pgp
-312,312_example example_example example example_example_exist course
-313,313_nsf_nsfnet_backbone_nsfnet backbone
-314,314_analog_digital_digital transmission_adc
-315,315_switch_frame interface_filtering_forward frame
-316,316_jpeg_image_subsequent image_redundancy
-317,317_beacon_sleep_ap_wake
-318,318_key_whitening key_whitening_key key
-319,319_ecn_congestion_explicit congestion notification_congestion notification
-320,320_slot_tdm_time slot_frame tdm
-321,321_gbn_gbn protocol_gbn sr_sr
-322,322_distance vector routing_vector routing_vector_distance vector
-323,323_repeat_forever_line process_data point
-324,324_subtypes_subtype_type_subtype field
-325,325_value value_value_recommended value_use value
-326,326_nr_seq_expected_frame expected
-327,327_ike_sa_ike sa_ipsec
-328,328_routing protocol_intradomain_interas_interdomain
-329,329_ack_syn_syn ack_synack
-330,330_execute_program_executable program_executable
-331,331_bridge_hash table_manual configuration_inside bridge
-332,332_file transfer_throughput file_throughput file transfer_throughput
-333,333_work_work work_job work_privilege guess paul
-334,334_connectionless_connection oriented_oriented_connectionless service
-335,335_transmission_transmission method_pin_base station
-336,336_proxy_proxy proxy_cleartext_web site
-337,337_cocktail party_party_cocktail_partygoer
-338,338_reorder_order sent_reorder message_corrupt
-339,339_suppose_xr suppose_xr_suppose ususuunn suppose
-340,340_switch figure_switch table_uppermost switch figure_uppermost switch
-341,341_wep_equivalent privacy_wired equivalent_wired equivalent privacy
-342,342_network core_core_edge_network edge
-343,343_security_security service_security functionality_provide security
-344,344_audio_audio video_video_sound
-345,345_network performance_performance_measurement_measuring
-346,346_kbps_ran_kbps kbps_bit kbps
-347,347_receive receive_sent_sent faster version_sent perth complete
-348,348_information_information information_hope information_hope information need
-349,349_diffserv_phb_diffserv architecture_marking
-350,350_window_window update_update_sends window update
-351,351_tree_zebra_tree tree_search begin
-352,352_capacity_capacity megabit_increase capacity_demand
-353,353_discussed section_discussed section discussed_section discussed section_section discussed
-354,354_pp_peer_file_distributing file
-355,355_answer_following question_answer following question_answer following
-356,356_fec_forward error correction_forward error_interleaving
-357,357_protocol shown_fig protocol_protocol shown figure_protocol shown fig
-358,358_sequence number_sequence_sequence number frame_number frame
-359,359_networking_design_network designer_innovation
-360,360_content_content distribution_content distribution network_distribution network
-361,361_stopandwait_stop wait_wait protocol_wait
-362,362_code_advanced code_simple code_block code
-363,363_udp_socket programming_clientserver application_udp client
-364,364_acknowledgement_receipt_end acknowledgement_end end acknowledgement
-365,365_joe_florida_orlando_gas station
-366,366_true false_true_false_true false true
-367,367_station_transmits frame_frame_station transmits frame
-368,368_ethernet frame_ethernet_frame ethernet_frame ethernet frame
-369,369_mime type_mime_type_existing association
-370,370_packet lifetime_lifetime_maximum packet lifetime_maximum packet
-371,371_mobility_nomadic_situation laptop_gain access
-372,372_voice_voice data_digital voice_data traffic
-373,373_sin_fourier_co_amplitude
-374,374_multiplexing_inverse multiplexing_inverse_multiplexing section
-375,375_message fig_fig message_message shown_fig message shown
-376,376_sends frame_trying send_frame_frame sender
-377,377_transmission rate_link transmission_rc_link transmission rate
-378,378_ellen_dean_marilyn_letter
-379,379_session key_session_key_session key computed
-380,380_choke packet_choke_choke packet reach_required reduce
-381,381_replay attack_replay_attack_defend replay attack
-382,382_mpls_label_label switching_multiprotocol label
-383,383_quantum_quantum cryptography_photon_cryptography
-384,384_internet traffic_cisco_majority internet_traffic video
-385,385_multiple bit_padded_length_message bit
-386,386_access point_point_access_building access point
-387,387_follow_follow route_packet follow_route
-388,388_trudy_trudy trudy_trick_got
-389,389_happens happens_happens happens happens_happens_happen
-390,390_tape_magnetic_ultrium tape_magnetic tape
-391,391_host sends segment_sends segment_host sends_segment host
-392,392_public key_certificate_public_certification
-393,393_tollbooth_caravan_car_car caravan
-394,394_network management_software_subramanian_network application
-395,395_army_war_army problem_soldier
-396,396_buffer_bd_offered load_ac
-397,397_sneaky_consumer_online_sale
-398,398_bridge_spanning tree_spanning_tree
-399,399_route_route route_lie_rest route discover
-400,400_terminal_hidden terminal_terminal problem_hidden
-401,401_check bit_bit check bit_bit check_bit
-402,402_chunk_peer_chunk peer_torrent
-403,403_nak_sender time_frame_eventually sender
-404,404_udp streaming_streaming_udp_video
-405,405_ethernet frame_ethernet frame containing_bob laptop_switch delivers
-406,406_match_guarantee_guarantee hard_hard match short
-407,407_finish_finish time_time packet_round
-408,408_message authentication code_authentication code_message authentication_mac
-409,409_macroblock_previous frame_macroblocks_previous
-410,410_checksum_checksummed_checksummed frame_checksum recomputed
-411,411_close_close connection_wait connection_client close
-412,412_thermostat_appliance_laptop_console
-413,413_power_power management_electrical power_management
-414,414_dhts_hash table_distributed hash_distributed hash table
-415,415_gbps_mbps ethernet_mbps_gbps ethernet
-416,416_export_export license_license_government
-417,417_point point link_point link_pointtopoint_point
-418,418_error detection_detection correction_error detection correction_correction
-419,419_age seq_seq age_seq age seq_age seq age
-420,420_topology_topology shown_topology fig_view example
-421,421_dtrans_dtrans time_dprop_suppose dprop
-422,422_communication channel_underlying channel_channel_assumed error
-423,423_kerberos_needham schroeder_schroeder_needham
-424,424_transit_transit traffic_transit service_balance
-425,425_id sensor_id_sensor_intrusion
-426,426_multiplexing demultiplexing_demultiplexing_multiplexing_transportlayer multiplexing demultiplexing
-427,427_time lr_lr_entire packet_bit router
-428,428_saw section_saw section saw_section saw section_section saw
-429,429_shift keying_keying_shift_amplitude
-430,430_socket_network application_socket programming_berkeley
-431,431_msec_second packet_packet msec_spacing
-432,432_come come_come_thing go resigning_thing go
-433,433_wireless_technical challenge_challenge_distinction challenge posed
-434,434_buffer_receiver_dedicate_buffering
-435,435_array_state array_state_min
-436,436_hash_hash function_hash hm_creates message
-437,437_case shown_figure case_case shown figure_shown figure case
-438,438_rack_simultaneous flow_host rack_simultaneous
-439,439_learned section_section learned section_section learned_learned section learned
-440,440_network layer ready_layer ready_network layer_ready event
-441,441_receiver_wait low power_initially receiver_interested knowing number
-442,442_roundabout_car_exit_ramp
-443,443_destination_address destination_destination ip_destination address
-444,444_polling_master node_polling protocol_node
-445,445_zigbee_personal area network_personal area_zigbee network
-446,446_isolation_class_isolation class_providing isolation
-447,447_packet loss_loss_packet loss probability_loss probability
-448,448_itu_tor_tor itu_itu tor
-449,449_range_range range_older block range_range negligible
-450,450_packet containing_bit suppose_packet byte_containing
-451,451_sublayer_mac sublayer_mac sublayer protocol_sublayer protocol
-452,452_peering_relationship_advertisement_peering relationship
-453,453_aloha_slotted_slotted aloha_aloha protocol
-454,454_metcalfe_boggs_metcalfe boggs_network metcalfe boggs
-455,455_mapping_possible mapping_mapping possible mapping_mapping possible
-456,456_reverse path forwarding_reverse path_path forwarding_reverse
-457,457_context switch_kernel_context_receiving process
-458,458_drop packet_router drop packet_router drop_drop
-459,459_ascii_character_ascii representation_letter uppercase
-460,460_format_output format_output format long_format long unambiguous
-461,461_pp_pp architecture_architecture_minimal reliance
-462,462_rtp_rtp stream_stream_audio video
-463,463_adapter_aging time_address fefa_fefa
-464,464_cell_frequency_neighboring cell_frequency reused
-465,465_server executes_executes_listen_establish connection
-466,466_common factor_number chosen_force suitable value_suitable value common
-467,467_wave_earth_band_lf mf band
-468,468_hop_metric_distance hop_execution instance
-469,469_blocked_traffic blocked_network allowed_host traffic
-470,470_movie_metafile_linked_step
-471,471_scenario_scenario shown figure_scenario shown_shown figure scenario
-472,472_broadcast_broadcast lan_connected broadcast_broadcast link
-473,473_region_hierarchy_cluster_hierarchical routing
-474,474_packet size_overhead_small packet_small packet size
-475,475_routing table_initial routing table_initial routing_table
-476,476_router router_packet source_packet make_hop
-477,477_multimedia_multimedia networking_networking_support multimedia
-478,478_knapsack_weight_object_algorithm knapsack algorithm
-479,479_index_index distributed_distributed_peer
-480,480_city_philadelphia_toronto hong kong_toronto hong
-481,481_error_error correcting code_correcting code_error correcting
-482,482_mechanism_studied section_machinery resolution_mechanism driven need
-483,483_symbol_volt_represent bit_volt represent
-484,484_movie_music_movie rental_sharing
-485,485_turn_processed turn wrong_problem way dealing_unecessary
+-1,"network,packet,time,link"
+0,"fiber,cable,twisted,twisted pair"
+1,"dns,dns server,domain,query"
+2,"mail,mail server,user agent,email"
+3,"cipher,ciphertext,block,encryption"
+4,"fig,shown fig,fig example,shown"
+5,"page,browser,web page,web"
+6,"ack,retransmit,duplicate,retransmission"
+7,"isps,isp,tier,access isps"
+8,"band,ghz,frequency,spectrum"
+9,"alice,bob,trudy,message alice"
+10,"telephone,telephone network,telephone company,company"
+11,"sdn,controller,plane,control plane"
+12,"agent,foreign,home agent,mobile node"
+13,"copyright,privacy,law,court"
+14,"byte,length,header,field"
+15,"cache,caching,web cache,cached"
+16,"protocol,new protocol,protocol protocol,protocol work"
+17,"satellite,earth,communication satellite,orbit"
+18,"reliable,reliable data,data transfer,reliable data transfer"
+19,"important,detail,subtle,subtle important"
+20,"rfid,tag,reader,rfid tag"
+21,"mbps,gbps,mbps link,rate mbps"
+22,"cdn,cdn node,cdns,cluster"
+23,"sip,invite,invite message,registrar"
+24,"header,header line,line,response"
+25,"datagram,datagrams,ipv datagram,datagram host"
+26,"bucket,token,token bucket,leaky"
+27,"ethernet,classic ethernet,ethernet ethernet,classic"
+28,"udp,tcp udp,udp tcp,protocol udp"
+29,"mpeg,compression,video,audio"
+30,"rfc,rfcs,defined rfc,rfc rfc"
+31,"subnet,subnets,subnet address,mask"
+32,"output port,port,input port,fabric"
+33,"ip address,ip,address,ip addressing"
+34,"firewall,filter,stateful,packet filter"
+35,"ssl,ssl record,record,tl"
+36,"key,bob,alice,public key"
+37,"signature,digital signature,signed,digital"
+38,"parity,error,bit error,parity bit"
+39,"web,site,world wide web,wide web"
+40,"urity,web urity,url,urity urity"
+41,"multicast,group,multicasting,anycast"
+42,"university,engineering,science,professor"
+43,"skype,voice,video,conference"
+44,"radio,microwave,interference,antenna"
+45,"arp,arp query,arp table,mac address"
+46,"congestion,congestion control,control,congestion control algorithm"
+47,"congestion window,window,slow start,slow"
+48,"data link,data link layer,link layer,frame"
+49,"data center,center,data,data center network"
+50,"network layer network,layer network layer,layer network,network layer"
+51,"fragment,fragmentation,reassembly,fragment fragment"
+52,"cdma,cdma code,code division,code division multiple"
+53,"playout,video,block,freezing"
+54,"html,style,title,sheet"
+55,"service,transport,transport service,layer"
+56,"successor,node,finger,finger table"
+57,"section section,section section section,section,noted section additional"
+58,"distance vector,neighbor,vector,distance"
+59,"rtp,rtsp,rtcp,rtp packet"
+60,"frame,frame length,column,us column"
+61,"fdm,multiplexing,division,division multiplexing"
+62,"blah,iv blah blah,iv blah,fine iv blah"
+63,"technology,industry,growth,innovation"
+64,"example figure,figure,figure example figure,figure example"
+65,"snr,modulation,noise,ratio"
+66,"certificate,ca,revoked,ra"
+67,"header,ip header,ipv,ipv header"
+68,"wireless,wireless network,wireless link,network wireless"
+69,"clock,get sends,sends get sends,sends get"
+70,"network network,network network network,network,cw net"
+71,"transportlayer segment,transportlayer,segment,transport layer"
+72,"window,window size,sliding window,sliding"
+73,"ipv,ipv ipv,ipv address,ip version"
+74,"bgp,ebgp,ibgp,gateway"
+75,"bank,credit,credit card,card"
+76,"ospf,routing,routing protocol,linkstate"
+77,"lan,lan lan,lan lan lan,lan figure"
+78,"mobile,mobile host,mobile ip,mobile node"
+79,"application layer,layer application,application layer application,layer application layer"
+80,"propagation,propagation delay,delay,propagation speed"
+81,"standard,international,standardization,iso"
+82,"collision,detect collision,collide,node"
+83,"figure figure,figure figure figure,figure,figure let figure"
+84,"transport layer,transport layer transport,layer transport,transport"
+85,"delay,average,estimate,average delay"
+86,"network urity,urity,urity network,urity network urity"
+87,"network fig,network shown,graph,network figure"
+88,"send packet,packet,packet sends packet,packet sends"
+89,"netflix,cdn,video,kankan"
+90,"figure shown figure,figure shown,shown figure shown,shown figure"
+91,"xor,mod,arithmetic,modulo"
+92,"rtt,rtts,congestion window,increase"
+93,"rdt,protocol rdt,rdt protocol,rdtsend"
+94,"lost,duplicate,lost packet,packet lost"
+95,"streaming,medium,stored,video"
+96,"bluetooth,bluetooth bluetooth,bluetooth protocol,bluetooth network"
+97,"dhcp,dhcp server,dhcp discover,dhcp client"
+98,"mpls,mpls header,mpls network,ip packet"
+99,"bittorrent,torrent,peer,tracker"
+100,"nonpersistent,persistent,persistent connection,parallel"
+101,"vlan,vlans,vlan aware,switch"
+102,"flag,flag byte,stuffing,byte"
+103,"ap,aps,wireless device,beacon"
+104,"wfq,priority,robin,round robin"
+105,"year,tom,tenure,government"
+106,"flow,bandwidth,fairness,max min"
+107,"al,et al,et,clark"
+108,"algorithm,nagle,converge,offered reward break"
+109,"ipsec,ipsec datagram,datagram,esp"
+110,"hamming,code,convolutional,reed"
+111,"port,port number,port reserved,number"
+112,"cookie,amazon,susans,cookie header"
+113,"solution,problem,solve,problem problem"
+114,"nat,nat box,box,translation"
+115,"voip,voice ip,voice,voip application"
+116,"address,address space,address address,space"
+117,"virtual circuit,virtual,circuit,virtual circuit network"
+118,"segment,lost segment,segment arrive,suppose segment"
+119,"sequence number,sequence,bit sequence number,number"
+120,"bandwidth,network bandwidth,bandwidth efficiently,higher class"
+121,"queuing delay,queuing,delay,queueing"
+122,"alice isp,alice,isp,bob"
+123,"service,class service,besteffort,class"
+124,"checksum,sum,complement,internet checksum"
+125,"rsa,rsa algorithm,algorithm,public key"
+126,"faster,efficiency,performance,improve performance"
+127,"csma,csma cd,cd,collision"
+128,"source port,port,port number,source port number"
+129,"physical layer,physical,layer physical layer,layer physical"
+130,"router,router router,natenabled,natenabled router"
+131,"access control sublayer,control sublayer,medium access control,medium access"
+132,"congestion control,tcp congestion control,congestion,tcp congestion"
+133,"quantization,sample,quantized,dct"
+134,"data link,data link layer,link layer data,link layer"
+135,"sequence number,initial sequence number,initial sequence,sequence"
+136,"wireless lan,lan,wireless,ieee"
+137,"http,http protocol,hypertext transfer protocol,hypertext transfer"
+138,"flow table,flow table entry,table,flow"
+139,"stack,protocol stack,protocol,layer protocol stack"
+140,"acknowledgement,acknowledgement frame,frame,frame received"
+141,"routing algorithm,routing,algorithm,way classify routing"
+142,"urity,encryption,encrypted,encrypt"
+143,"jitter,called jitter,network jitter,delay jitter"
+144,"base station,base,station,cell"
+145,"php,javascript,script,cgi"
+146,"prefix,longest,matching,longest prefix"
+147,"step,figure step,shown step,step step"
+148,"hub,hub switch,switch,switch hub"
+149,"buffer,buffer size,buffering,buffer management"
+150,"authentication server,authentication,ap,wireless client"
+151,"release,released,connection,connection released"
+152,"applet,activex,java,activex control"
+153,"telnet,telnet session,telnet connection,gateway"
+154,"cellular,cellular network,lte,network architecture"
+155,"ieee,acm,standard ieee,ieee ieee"
+156,"icmp,icmp message,ping,echo"
+157,"arpanet,arpa,robert,research"
+158,"sender,sends message,sends message sends,message sends message"
+159,"qos,guarantee,qos guarantee,flow"
+160,"book,chapter,author,reference"
+161,"cost,link cost,cost change,link"
+162,"virus,malware,worm,malicious"
+163,"msc,anchor msc,visited,anchor"
+164,"queue,queued,queue packet,transmission packet"
+165,"checksum,pseudoheader,udp,header"
+166,"tree,spanning tree,spanning,sink"
+167,"forwarding table,forwarding,table,router forwarding table"
+168,"syn,syn segment,segment,syn flood"
+169,"traceroute,traceroute program,traceroutes,trace"
+170,"dtn,bundle,dtn node,dtns"
+171,"sequence number,sequence,packet sequence,packet sequence number"
+172,"request,request reply,response,response message"
+173,"snmp,managing,managing server,managed device"
+174,"tion,tions,following tions,tion look"
+175,"transportlayer protocol,transport protocol,transportlayer,transport"
+176,"mobile web,mobile,web,mobile device"
+177,"interconnected,collection,network network,internet"
+178,"section recall,recall,recall section,recall section recall"
+179,"switching,circuit switching,packet switching,circuit"
+180,"pixel,color,image,rgb"
+181,"channel,signaling,channel allocation,signaling channel"
+182,"udpclient,py,serverport,clientsocket"
+183,"gigabit,gigabit ethernet,ethernet,fast ethernet"
+184,"ct,rts,rts ct,ct frame"
+185,"timer,tick,timer expires,reset"
+186,"table,column table,column,note table"
+187,"input bit,output bit,bit output,output"
+188,"client server,client,client code,clientserver application"
+189,"tunnel,tunneling,ipv,paris"
+190,"ppp,aal,ppp frame,sonet"
+191,"crc,crc code,polynomial,cyclic redundancy check"
+192,"vpn,private network,virtual private,virtual private network"
+193,"procedure,stub,server procedure,remote procedure"
+194,"tcp sender,loss,rate,congestion"
+195,"switch,linklayer switch,packet switch,linklayer"
+196,"country,france,boston ma,sept"
+197,"station,suppose station,numbered station,transmitting station"
+198,"bridge,frame port,port,port bridge"
+199,"timeout,timeouts,timeout interval,timeout event"
+200,"playout,playout delay,talk spurt,spurt"
+201,"mac address,mac,adapter,address adapter"
+202,"wimax,mobile wimax,wimax network,known wimax"
+203,"source,destination,router advertisement,outgoing line"
+204,"data rate,rate,overhead,rate adaptation"
+205,"encoding,ascii,encoded,ascii character"
+206,"sequence number,window,sequence,number"
+207,"downstream,upstream,mbps downstream,upstream downstream"
+208,"sha,hash,hash algorithm,cryptographic hash"
+209,"quality service,quality,service,based quality"
+210,"collision,probability collision,equal probability collision,collision chosen"
+211,"mac address,mac,address field,address"
+212,"fsm,fsm description,description,fsm figure"
+213,"frame,bit frame,bit,error"
+214,"vlr,hlr,visited network,visited"
+215,"authentication,authentication protocol,authorization,simple authentication"
+216,"communication,communication possible,communicate,communication people"
+217,"spam,mail,spammer,junk"
+218,"tcp,tcp implementation,tcp us,ip product"
+219,"forwarding,generalized forwarding,generalized,assured forwarding"
+220,"access protocol,multiple access,multiple access protocol,random access"
+221,"connection,connection establishment,establishment,establishing connection"
+222,"case,case case,consider case,case likely"
+223,"hot potato,potato,hot potato routing,potato routing"
+224,"tcp ip,model,ip model,tcp ip model"
+225,"modem,cable modem,minislots,minislot"
+226,"application buffer,client application,client application buffer,buffer"
+227,"web server,web,companion website,website"
+228,"audio,low,high low,audio http"
+229,"envelope,body,smtp,header"
+230,"label,flow label,path label,different label"
+231,"samplertt,estimatedrtt,samplertt value,value"
+232,"consider figure,figure consider figure,consider figure consider,figure consider"
+233,"aloha,slotted aloha,slotted,efficiency slotted aloha"
+234,"handoff,base station,base,station"
+235,"ipv datagram,datagram format,ipv,ipv datagram format"
+236,"attack,bad guy,guy,security"
+237,"xml,xhtml,html,language"
+238,"data sent,data transmitted,transmit data,data"
+239,"gsm,mobile phone,phone,europe"
+240,"file,large file,file host,host sending"
+241,"congested link,share,bandwidth,equal"
+242,"flooding,flood,link state update,state update"
+243,"handshake,threeway,way handshake,threeway handshake"
+244,"discus,discus discus,ter discus,tion discus"
+245,"ad hoc,hoc,ad,ad hoc network"
+246,"shortest path,shortest,path,compute shortest path"
+247,"probability,slot,probability node,slot probability"
+248,"burst,burst error,burst length,error"
+249,"form,post,method,post method"
+250,"example let,example let look,let look,look example"
+251,"host host,host,channel host,channel host host"
+252,"message,message message,want reply message,want reply"
+253,"idle,channel idle,idle station,channel idle station"
+254,"public key,public,key,key ring"
+255,"chip sequence,chip,sequence,chip sequence station"
+256,"illustrated figure,illustrated,figure illustrated figure,figure illustrated"
+257,"capacity receiver,sender,receiver,rate"
+258,"procedure,parameter,procedure described section,procedure described"
+259,"door,socket,client,serversocket"
+260,"path,path length,path taken,path shown"
+261,"id,signaturebased,signature,snort"
+262,"toll,office,toll office,ixc"
+263,"mtu,path mtu,mtu discovery,path mtu discovery"
+264,"compression,decompressing,compression algorithm,later data"
+265,"osi,osi model,model,osi reference model"
+266,"option,choice,choose option,choose"
+267,"ear,frequency,audibility,threshold audibility"
+268,"token,ring,token ring,ring protocol"
+269,"internet,internet internet,world internet,internetwork"
+270,"bursty,traffic,burst,burst traffic"
+271,"delay,packetization,processing delay time,connected router connected"
+272,"error rate,bit error rate,bit error,error"
+273,"base station,base,wireless host,wireless"
+274,"formula,infinity,approach infinity,formula let"
+275,"kbps,speech,uncompressed,voice"
+276,"multipath,fading,multipath fading,path loss"
+277,"bridge,lan,multidrop,join"
+278,"tcp ip,protocol tcp,tcp ip protocol,ip protocol"
+279,"process,client process,process server,process client"
+280,"traffic,traffic destined,destined,originates unit traffic"
+281,"design,property,worked long huge,large nonetheless"
+282,"distribution time,distribution,minimum distribution,minimum distribution time"
+283,"letter,plaintext,common letter,trigram"
+284,"node,frame node,transmitting frame node,transmitting frame"
+285,"wireshark,wireshark lab,lab,sniffer"
+286,"section described,discussion,described section,section described section"
+287,"method,method method,approach,niche let"
+288,"networking,student want,recommendation student want,recommendation student"
+289,"ond,ond strategy,ond requirement,onds"
+290,"encrypted,ek,plaintext,encrypting"
+291,"internet radio,radio,iptv,radio station"
+292,"nonce,mics,nonce value,protocol us nonce"
+293,"sender figure,figure sender,figure receiver,figure"
+294,"advantage,benefit,strategy advantage advantage,advantage advantage"
+295,"router crash,crash,router,router discarded"
+296,"integrity,message integrity,confidentiality,message integrity technique"
+297,"switch,connection switch,term bridge switch,switch interchangeably"
+298,"nrz,manchester,manchester encoding,encoding"
+299,"hop,time live,counter,time live field"
+300,"area,border router,border,area border router"
+301,"introduction introduction,introduction,introduction introduction introduction,introduction introduction medical"
+302,"router figure,fig router,router fig router,router fig"
+303,"analogy,analogy section,teacher student,clearer"
+304,"address block,ispsrus,block address,block"
+305,"army,blue army,blue,blue army attack"
+306,"tsap,tsap address,portmapper,stable tsap address"
+307,"social,social network,facebook,twitter"
+308,"security,security mechanism,danger information,danger information leaking"
+309,"sonet,carrier,sonet sdh,packet sonet"
+310,"group,working group,working,divided working"
+311,"secure email,email,secure,pgp"
+312,"example example,example example example,example,exist course"
+313,"nsf,nsfnet,backbone,nsfnet backbone"
+314,"analog,digital,digital transmission,adc"
+315,"switch,frame interface,filtering,forward frame"
+316,"jpeg,image,subsequent image,redundancy"
+317,"beacon,sleep,ap,wake"
+318,"key,whitening key,whitening,key key"
+319,"ecn,congestion,explicit congestion notification,congestion notification"
+320,"slot,tdm,time slot,frame tdm"
+321,"gbn,gbn protocol,gbn sr,sr"
+322,"distance vector routing,vector routing,vector,distance vector"
+323,"repeat,forever,line process,data point"
+324,"subtypes,subtype,type,subtype field"
+325,"value value,value,recommended value,use value"
+326,"nr,seq,expected,frame expected"
+327,"ike,sa,ike sa,ipsec"
+328,"routing protocol,intradomain,interas,interdomain"
+329,"ack,syn,syn ack,synack"
+330,"execute,program,executable program,executable"
+331,"bridge,hash table,manual configuration,inside bridge"
+332,"file transfer,throughput file,throughput file transfer,throughput"
+333,"work,work work,job work,privilege guess paul"
+334,"connectionless,connection oriented,oriented,connectionless service"
+335,"transmission,transmission method,pin,base station"
+336,"proxy,proxy proxy,cleartext,web site"
+337,"cocktail party,party,cocktail,partygoer"
+338,"reorder,order sent,reorder message,corrupt"
+339,"suppose,xr suppose,xr,suppose ususuunn suppose"
+340,"switch figure,switch table,uppermost switch figure,uppermost switch"
+341,"wep,equivalent privacy,wired equivalent,wired equivalent privacy"
+342,"network core,core,edge,network edge"
+343,"security,security service,security functionality,provide security"
+344,"audio,audio video,video,sound"
+345,"network performance,performance,measurement,measuring"
+346,"kbps,ran,kbps kbps,bit kbps"
+347,"receive receive,sent,sent faster version,sent perth complete"
+348,"information,information information,hope information,hope information need"
+349,"diffserv,phb,diffserv architecture,marking"
+350,"window,window update,update,sends window update"
+351,"tree,zebra,tree tree,search begin"
+352,"capacity,capacity megabit,increase capacity,demand"
+353,"discussed section,discussed section discussed,section discussed section,section discussed"
+354,"pp,peer,file,distributing file"
+355,"answer,following question,answer following question,answer following"
+356,"fec,forward error correction,forward error,interleaving"
+357,"protocol shown,fig protocol,protocol shown figure,protocol shown fig"
+358,"sequence number,sequence,sequence number frame,number frame"
+359,"networking,design,network designer,innovation"
+360,"content,content distribution,content distribution network,distribution network"
+361,"stopandwait,stop wait,wait protocol,wait"
+362,"code,advanced code,simple code,block code"
+363,"udp,socket programming,clientserver application,udp client"
+364,"acknowledgement,receipt,end acknowledgement,end end acknowledgement"
+365,"joe,florida,orlando,gas station"
+366,"true false,true,false,true false true"
+367,"station,transmits frame,frame,station transmits frame"
+368,"ethernet frame,ethernet,frame ethernet,frame ethernet frame"
+369,"mime type,mime,type,existing association"
+370,"packet lifetime,lifetime,maximum packet lifetime,maximum packet"
+371,"mobility,nomadic,situation laptop,gain access"
+372,"voice,voice data,digital voice,data traffic"
+373,"sin,fourier,co,amplitude"
+374,"multiplexing,inverse multiplexing,inverse,multiplexing section"
+375,"message fig,fig message,message shown,fig message shown"
+376,"sends frame,trying send,frame,frame sender"
+377,"transmission rate,link transmission,rc,link transmission rate"
+378,"ellen,dean,marilyn,letter"
+379,"session key,session,key,session key computed"
+380,"choke packet,choke,choke packet reach,required reduce"
+381,"replay attack,replay,attack,defend replay attack"
+382,"mpls,label,label switching,multiprotocol label"
+383,"quantum,quantum cryptography,photon,cryptography"
+384,"internet traffic,cisco,majority internet,traffic video"
+385,"multiple bit,padded,length,message bit"
+386,"access point,point,access,building access point"
+387,"follow,follow route,packet follow,route"
+388,"trudy,trudy trudy,trick,got"
+389,"happens happens,happens happens happens,happens,happen"
+390,"tape,magnetic,ultrium tape,magnetic tape"
+391,"host sends segment,sends segment,host sends,segment host"
+392,"public key,certificate,public,certification"
+393,"tollbooth,caravan,car,car caravan"
+394,"network management,software,subramanian,network application"
+395,"army,war,army problem,soldier"
+396,"buffer,bd,offered load,ac"
+397,"sneaky,consumer,online,sale"
+398,"bridge,spanning tree,spanning,tree"
+399,"route,route route,lie,rest route discover"
+400,"terminal,hidden terminal,terminal problem,hidden"
+401,"check bit,bit check bit,bit check,bit"
+402,"chunk,peer,chunk peer,torrent"
+403,"nak,sender time,frame,eventually sender"
+404,"udp streaming,streaming,udp,video"
+405,"ethernet frame,ethernet frame containing,bob laptop,switch delivers"
+406,"match,guarantee,guarantee hard,hard match short"
+407,"finish,finish time,time packet,round"
+408,"message authentication code,authentication code,message authentication,mac"
+409,"macroblock,previous frame,macroblocks,previous"
+410,"checksum,checksummed,checksummed frame,checksum recomputed"
+411,"close,close connection,wait connection,client close"
+412,"thermostat,appliance,laptop,console"
+413,"power,power management,electrical power,management"
+414,"dhts,hash table,distributed hash,distributed hash table"
+415,"gbps,mbps ethernet,mbps,gbps ethernet"
+416,"export,export license,license,government"
+417,"point point link,point link,pointtopoint,point"
+418,"error detection,detection correction,error detection correction,correction"
+419,"age seq,seq age,seq age seq,age seq age"
+420,"topology,topology shown,topology fig,view example"
+421,"dtrans,dtrans time,dprop,suppose dprop"
+422,"communication channel,underlying channel,channel,assumed error"
+423,"kerberos,needham schroeder,schroeder,needham"
+424,"transit,transit traffic,transit service,balance"
+425,"id sensor,id,sensor,intrusion"
+426,"multiplexing demultiplexing,demultiplexing,multiplexing,transportlayer multiplexing demultiplexing"
+427,"time lr,lr,entire packet,bit router"
+428,"saw section,saw section saw,section saw section,section saw"
+429,"shift keying,keying,shift,amplitude"
+430,"socket,network application,socket programming,berkeley"
+431,"msec,second packet,packet msec,spacing"
+432,"come come,come,thing go resigning,thing go"
+433,"wireless,technical challenge,challenge,distinction challenge posed"
+434,"buffer,receiver,dedicate,buffering"
+435,"array,state array,state,min"
+436,"hash,hash function,hash hm,creates message"
+437,"case shown,figure case,case shown figure,shown figure case"
+438,"rack,simultaneous flow,host rack,simultaneous"
+439,"learned section,section learned section,section learned,learned section learned"
+440,"network layer ready,layer ready,network layer,ready event"
+441,"receiver,wait low power,initially receiver,interested knowing number"
+442,"roundabout,car,exit,ramp"
+443,"destination,address destination,destination ip,destination address"
+444,"polling,master node,polling protocol,node"
+445,"zigbee,personal area network,personal area,zigbee network"
+446,"isolation,class,isolation class,providing isolation"
+447,"packet loss,loss,packet loss probability,loss probability"
+448,"itu,tor,tor itu,itu tor"
+449,"range,range range,older block range,range negligible"
+450,"packet containing,bit suppose,packet byte,containing"
+451,"sublayer,mac sublayer,mac sublayer protocol,sublayer protocol"
+452,"peering,relationship,advertisement,peering relationship"
+453,"aloha,slotted,slotted aloha,aloha protocol"
+454,"metcalfe,boggs,metcalfe boggs,network metcalfe boggs"
+455,"mapping,possible mapping,mapping possible mapping,mapping possible"
+456,"reverse path forwarding,reverse path,path forwarding,reverse"
+457,"context switch,kernel,context,receiving process"
+458,"drop packet,router drop packet,router drop,drop"
+459,"ascii,character,ascii representation,letter uppercase"
+460,"format,output format,output format long,format long unambiguous"
+461,"pp,pp architecture,architecture,minimal reliance"
+462,"rtp,rtp stream,stream,audio video"
+463,"adapter,aging time,address fefa,fefa"
+464,"cell,frequency,neighboring cell,frequency reused"
+465,"server executes,executes,listen,establish connection"
+466,"common factor,number chosen,force suitable value,suitable value common"
+467,"wave,earth,band,lf mf band"
+468,"hop,metric,distance hop,execution instance"
+469,"blocked,traffic blocked,network allowed,host traffic"
+470,"movie,metafile,linked,step"
+471,"scenario,scenario shown figure,scenario shown,shown figure scenario"
+472,"broadcast,broadcast lan,connected broadcast,broadcast link"
+473,"region,hierarchy,cluster,hierarchical routing"
+474,"packet size,overhead,small packet,small packet size"
+475,"routing table,initial routing table,initial routing,table"
+476,"router router,packet source,packet make,hop"
+477,"multimedia,multimedia networking,networking,support multimedia"
+478,"knapsack,weight,object,algorithm knapsack algorithm"
+479,"index,index distributed,distributed,peer"
+480,"city,philadelphia,toronto hong kong,toronto hong"
+481,"error,error correcting code,correcting code,error correcting"
+482,"mechanism,studied section,machinery resolution,mechanism driven need"
+483,"symbol,volt,represent bit,volt represent"
+484,"movie,music,movie rental,sharing"
+485,"turn,processed turn wrong,problem way dealing,unecessary"
