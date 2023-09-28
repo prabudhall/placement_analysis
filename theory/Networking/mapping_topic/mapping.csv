@@ -1,0 +1,488 @@
+bucket_topic_number,bucket_topic,book_topic_number,book_topic
+0,"network, packet, time, link",19,Software-Defined Networking (SDN)
+1,"fiber, cable, twisted, twisted pair",0,Introduction to Computer Networks
+2,"dns, dns server, domain, query",7,DNS (Domain Name System)
+3,"mail, mail server, user agent, email",2,Network Topologies and Architectures
+4,"cipher, ciphertext, block, encryption",22,Wireless Security
+5,"fig, shown fig, fig example, shown",0,Introduction to Computer Networks
+6,"page, browser, web page, web",0,Introduction to Computer Networks
+7,"ack, retransmit, duplicate, retransmission",0,Introduction to Computer Networks
+8,"isps, isp, tier, access isps",10,Network Security and Threats
+9,"band, ghz, frequency, spectrum",0,Introduction to Computer Networks
+10,"alice, bob, trudy, message alice",0,Introduction to Computer Networks
+11,"telephone, telephone network, telephone company, company",19,Software-Defined Networking (SDN)
+12,"sdn, controller, plane, control plane",19,Software-Defined Networking (SDN)
+13,"agent, foreign, home agent, mobile node",0,Introduction to Computer Networks
+14,"copyright, privacy, law, court",12,VPN (Virtual Private Network)
+15,"byte, length, header, field",0,Introduction to Computer Networks
+16,"cache, caching, web cache, cached",0,Introduction to Computer Networks
+17,"protocol, new protocol, protocol protocol, protocol work",12,VPN (Virtual Private Network)
+18,"satellite, earth, communication satellite, orbit",0,Introduction to Computer Networks
+19,"reliable, reliable data, data transfer, reliable data transfer",13,Network Routing and Switching
+20,"important, detail, subtle, subtle important",0,Introduction to Computer Networks
+21,"rfid, tag, reader, rfid tag",0,Introduction to Computer Networks
+22,"mbps, gbps, mbps link, rate mbps",0,Introduction to Computer Networks
+23,"cdn, cdn node, cdns, cluster",0,Introduction to Computer Networks
+24,"sip, invite, invite message, registrar",0,Introduction to Computer Networks
+25,"header, header line, line, response",0,Introduction to Computer Networks
+26,"datagram, datagrams, ipv datagram, datagram host",0,Introduction to Computer Networks
+27,"bucket, token, token bucket, leaky",0,Introduction to Computer Networks
+28,"ethernet, classic ethernet, ethernet ethernet, classic",8,Ethernet and LAN Technologies
+29,"udp, tcp udp, udp tcp, protocol udp",5,TCP/IP Protocol Suite
+30,"mpeg, compression, video, audio",0,Introduction to Computer Networks
+31,"rfc, rfcs, defined rfc, rfc rfc",19,Software-Defined Networking (SDN)
+32,"subnet, subnets, subnet address, mask",0,Introduction to Computer Networks
+33,"output port, port, input port, fabric",0,Introduction to Computer Networks
+34,"ip address, ip, address, ip addressing",6,IP Addressing and Subnetting
+35,"firewall, filter, stateful, packet filter",0,Introduction to Computer Networks
+36,"ssl, ssl record, record, tl",0,Introduction to Computer Networks
+37,"key, bob, alice, public key",13,Network Routing and Switching
+38,"signature, digital signature, signed, digital",0,Introduction to Computer Networks
+39,"parity, error, bit error, parity bit",0,Introduction to Computer Networks
+40,"web, site, world wide web, wide web",12,VPN (Virtual Private Network)
+41,"urity, web urity, url, urity urity",0,Introduction to Computer Networks
+42,"multicast, group, multicasting, anycast",0,Introduction to Computer Networks
+43,"university, engineering, science, professor",0,Introduction to Computer Networks
+44,"skype, voice, video, conference",0,Introduction to Computer Networks
+45,"radio, microwave, interference, antenna",0,Introduction to Computer Networks
+46,"arp, arp query, arp table, mac address",0,Introduction to Computer Networks
+47,"congestion, congestion control, control, congestion control algorithm",19,Software-Defined Networking (SDN)
+48,"congestion window, window, slow start, slow",0,Introduction to Computer Networks
+49,"data link, data link layer, link layer, frame",13,Network Routing and Switching
+50,"data center, center, data, data center network",13,Network Routing and Switching
+51,"network layer network, layer network layer, layer network, network layer",4,Network Layers and the OSI Model
+52,"fragment, fragmentation, reassembly, fragment fragment",0,Introduction to Computer Networks
+53,"cdma, cdma code, code division, code division multiple",20,Network Virtualization
+54,"playout, video, block, freezing",0,Introduction to Computer Networks
+55,"html, style, title, sheet",0,Introduction to Computer Networks
+56,"service, transport, transport service, layer",16,Quality of Service (QoS)
+57,"successor, node, finger, finger table",0,Introduction to Computer Networks
+58,"section section, section section section, section, noted section additional",0,Introduction to Computer Networks
+59,"distance vector, neighbor, vector, distance",0,Introduction to Computer Networks
+60,"rtp, rtsp, rtcp, rtp packet",0,Introduction to Computer Networks
+61,"frame, frame length, column, us column",0,Introduction to Computer Networks
+62,"fdm, multiplexing, division, division multiplexing",0,Introduction to Computer Networks
+63,"blah, iv blah blah, iv blah, fine iv blah",0,Introduction to Computer Networks
+64,"technology, industry, growth, innovation",24,Emerging Trends in Networking
+65,"example figure, figure, figure example figure, figure example",0,Introduction to Computer Networks
+66,"snr, modulation, noise, ratio",0,Introduction to Computer Networks
+67,"certificate, ca, revoked, ra",0,Introduction to Computer Networks
+68,"header, ip header, ipv, ipv header",5,TCP/IP Protocol Suite
+69,"wireless, wireless network, wireless link, network wireless",9,Wireless Networking
+70,"clock, get sends, sends get sends, sends get",0,Introduction to Computer Networks
+71,"network network, network network network, network, cw net",19,Software-Defined Networking (SDN)
+72,"transportlayer segment, transportlayer, segment, transport layer",14,VLANs (Virtual LANs)
+73,"window, window size, sliding window, sliding",0,Introduction to Computer Networks
+74,"ipv, ipv ipv, ipv address, ip version",5,TCP/IP Protocol Suite
+75,"bgp, ebgp, ibgp, gateway",0,Introduction to Computer Networks
+76,"bank, credit, credit card, card",0,Introduction to Computer Networks
+77,"ospf, routing, routing protocol, linkstate",13,Network Routing and Switching
+78,"lan, lan lan, lan lan lan, lan figure",8,Ethernet and LAN Technologies
+79,"mobile, mobile host, mobile ip, mobile node",5,TCP/IP Protocol Suite
+80,"application layer, layer application, application layer application, layer application layer",4,Network Layers and the OSI Model
+81,"propagation, propagation delay, delay, propagation speed",0,Introduction to Computer Networks
+82,"standard, international, standardization, iso",0,Introduction to Computer Networks
+83,"collision, detect collision, collide, node",0,Introduction to Computer Networks
+84,"figure figure, figure figure figure, figure, figure let figure",0,Introduction to Computer Networks
+85,"transport layer, transport layer transport, layer transport, transport",4,Network Layers and the OSI Model
+86,"delay, average, estimate, average delay",0,Introduction to Computer Networks
+87,"network urity, urity, urity network, urity network urity",19,Software-Defined Networking (SDN)
+88,"network fig, network shown, graph, network figure",19,Software-Defined Networking (SDN)
+89,"send packet, packet, packet sends packet, packet sends",0,Introduction to Computer Networks
+90,"netflix, cdn, video, kankan",0,Introduction to Computer Networks
+91,"figure shown figure, figure shown, shown figure shown, shown figure",0,Introduction to Computer Networks
+92,"xor, mod, arithmetic, modulo",0,Introduction to Computer Networks
+93,"rtt, rtts, congestion window, increase",0,Introduction to Computer Networks
+94,"rdt, protocol rdt, rdt protocol, rdtsend",0,Introduction to Computer Networks
+95,"lost, duplicate, lost packet, packet lost",0,Introduction to Computer Networks
+96,"streaming, medium, stored, video",0,Introduction to Computer Networks
+97,"bluetooth, bluetooth bluetooth, bluetooth protocol, bluetooth network",9,Wireless Networking
+98,"dhcp, dhcp server, dhcp discover, dhcp client",2,Network Topologies and Architectures
+99,"mpls, mpls header, mpls network, ip packet",5,TCP/IP Protocol Suite
+100,"bittorrent, torrent, peer, tracker",2,Network Topologies and Architectures
+101,"nonpersistent, persistent, persistent connection, parallel",0,Introduction to Computer Networks
+102,"vlan, vlans, vlan aware, switch",14,VLANs (Virtual LANs)
+103,"flag, flag byte, stuffing, byte",0,Introduction to Computer Networks
+104,"ap, aps, wireless device, beacon",9,Wireless Networking
+105,"wfq, priority, robin, round robin",0,Introduction to Computer Networks
+106,"year, tom, tenure, government",0,Introduction to Computer Networks
+107,"flow, bandwidth, fairness, max min",0,Introduction to Computer Networks
+108,"al, et al, et, clark",0,Introduction to Computer Networks
+109,"algorithm, nagle, converge, offered reward break",0,Introduction to Computer Networks
+110,"ipsec, ipsec datagram, datagram, esp",0,Introduction to Computer Networks
+111,"hamming, code, convolutional, reed",0,Introduction to Computer Networks
+112,"port, port number, port reserved, number",0,Introduction to Computer Networks
+113,"cookie, amazon, susans, cookie header",0,Introduction to Computer Networks
+114,"solution, problem, solve, problem problem",0,Introduction to Computer Networks
+115,"nat, nat box, box, translation",0,Introduction to Computer Networks
+116,"voip, voice ip, voice, voip application",5,TCP/IP Protocol Suite
+117,"address, address space, address address, space",0,Introduction to Computer Networks
+118,"virtual circuit, virtual, circuit, virtual circuit network",20,Network Virtualization
+119,"segment, lost segment, segment arrive, suppose segment",14,VLANs (Virtual LANs)
+120,"sequence number, sequence, bit sequence number, number",0,Introduction to Computer Networks
+121,"bandwidth, network bandwidth, bandwidth efficiently, higher class",19,Software-Defined Networking (SDN)
+122,"queuing delay, queuing, delay, queueing",0,Introduction to Computer Networks
+123,"alice isp, alice, isp, bob",0,Introduction to Computer Networks
+124,"service, class service, besteffort, class",16,Quality of Service (QoS)
+125,"checksum, sum, complement, internet checksum",5,TCP/IP Protocol Suite
+126,"rsa, rsa algorithm, algorithm, public key",12,VPN (Virtual Private Network)
+127,"faster, efficiency, performance, improve performance",23,Network Performance Optimization
+128,"csma, csma cd, cd, collision",0,Introduction to Computer Networks
+129,"source port, port, port number, source port number",0,Introduction to Computer Networks
+130,"physical layer, physical, layer physical layer, layer physical",2,Network Topologies and Architectures
+131,"router, router router, natenabled, natenabled router",0,Introduction to Computer Networks
+132,"access control sublayer, control sublayer, medium access control, medium access",19,Software-Defined Networking (SDN)
+133,"congestion control, tcp congestion control, congestion, tcp congestion",1,Network Models and Protocols
+134,"quantization, sample, quantized, dct",0,Introduction to Computer Networks
+135,"data link, data link layer, link layer data, link layer",13,Network Routing and Switching
+136,"sequence number, initial sequence number, initial sequence, sequence",0,Introduction to Computer Networks
+137,"wireless lan, lan, wireless, ieee",8,Ethernet and LAN Technologies
+138,"http, http protocol, hypertext transfer protocol, hypertext transfer",0,Introduction to Computer Networks
+139,"flow table, flow table entry, table, flow",0,Introduction to Computer Networks
+140,"stack, protocol stack, protocol, layer protocol stack",4,Network Layers and the OSI Model
+141,"acknowledgement, acknowledgement frame, frame, frame received",0,Introduction to Computer Networks
+142,"routing algorithm, routing, algorithm, way classify routing",13,Network Routing and Switching
+143,"urity, encryption, encrypted, encrypt",22,Wireless Security
+144,"jitter, called jitter, network jitter, delay jitter",19,Software-Defined Networking (SDN)
+145,"base station, base, station, cell",0,Introduction to Computer Networks
+146,"php, javascript, script, cgi",0,Introduction to Computer Networks
+147,"prefix, longest, matching, longest prefix",0,Introduction to Computer Networks
+148,"step, figure step, shown step, step step",0,Introduction to Computer Networks
+149,"hub, hub switch, switch, switch hub",0,Introduction to Computer Networks
+150,"buffer, buffer size, buffering, buffer management",15,Network Management and Troubleshooting
+151,"authentication server, authentication, ap, wireless client",9,Wireless Networking
+152,"release, released, connection, connection released",0,Introduction to Computer Networks
+153,"applet, activex, java, activex control",19,Software-Defined Networking (SDN)
+154,"telnet, telnet session, telnet connection, gateway",0,Introduction to Computer Networks
+155,"cellular, cellular network, lte, network architecture",2,Network Topologies and Architectures
+156,"ieee, acm, standard ieee, ieee ieee",0,Introduction to Computer Networks
+157,"icmp, icmp message, ping, echo",5,TCP/IP Protocol Suite
+158,"arpanet, arpa, robert, research",0,Introduction to Computer Networks
+159,"sender, sends message, sends message sends, message sends message",0,Introduction to Computer Networks
+160,"qos, guarantee, qos guarantee, flow",16,Quality of Service (QoS)
+161,"book, chapter, author, reference",0,Introduction to Computer Networks
+162,"cost, link cost, cost change, link",0,Introduction to Computer Networks
+163,"virus, malware, worm, malicious",0,Introduction to Computer Networks
+164,"msc, anchor msc, visited, anchor",0,Introduction to Computer Networks
+165,"queue, queued, queue packet, transmission packet",3,Network Devices and Hardware
+166,"checksum, pseudoheader, udp, header",5,TCP/IP Protocol Suite
+167,"tree, spanning tree, spanning, sink",0,Introduction to Computer Networks
+168,"forwarding table, forwarding, table, router forwarding table",13,Network Routing and Switching
+169,"syn, syn segment, segment, syn flood",14,VLANs (Virtual LANs)
+170,"traceroute, traceroute program, traceroutes, trace",0,Introduction to Computer Networks
+171,"dtn, bundle, dtn node, dtns",0,Introduction to Computer Networks
+172,"sequence number, sequence, packet sequence, packet sequence number",0,Introduction to Computer Networks
+173,"request, request reply, response, response message",0,Introduction to Computer Networks
+174,"snmp, managing, managing server, managed device",18,Internet of Things (IoT) and Networking
+175,"tion, tions, following tions, tion look",0,Introduction to Computer Networks
+176,"transportlayer protocol, transport protocol, transportlayer, transport",0,Introduction to Computer Networks
+177,"mobile web, mobile, web, mobile device",0,Introduction to Computer Networks
+178,"interconnected, collection, network network, internet",5,TCP/IP Protocol Suite
+179,"section recall, recall, recall section, recall section recall",0,Introduction to Computer Networks
+180,"switching, circuit switching, packet switching, circuit",13,Network Routing and Switching
+181,"pixel, color, image, rgb",0,Introduction to Computer Networks
+182,"channel, signaling, channel allocation, signaling channel",6,IP Addressing and Subnetting
+183,"udpclient, py, serverport, clientsocket",0,Introduction to Computer Networks
+184,"gigabit, gigabit ethernet, ethernet, fast ethernet",8,Ethernet and LAN Technologies
+185,"ct, rts, rts ct, ct frame",0,Introduction to Computer Networks
+186,"timer, tick, timer expires, reset",0,Introduction to Computer Networks
+187,"table, column table, column, note table",0,Introduction to Computer Networks
+188,"input bit, output bit, bit output, output",0,Introduction to Computer Networks
+189,"client server, client, client code, clientserver application",2,Network Topologies and Architectures
+190,"tunnel, tunneling, ipv, paris",0,Introduction to Computer Networks
+191,"ppp, aal, ppp frame, sonet",0,Introduction to Computer Networks
+192,"crc, crc code, polynomial, cyclic redundancy check",0,Introduction to Computer Networks
+193,"vpn, private network, virtual private, virtual private network",12,VPN (Virtual Private Network)
+194,"procedure, stub, server procedure, remote procedure",12,VPN (Virtual Private Network)
+195,"tcp sender, loss, rate, congestion",1,Network Models and Protocols
+196,"switch, linklayer switch, packet switch, linklayer",0,Introduction to Computer Networks
+197,"country, france, boston ma, sept",0,Introduction to Computer Networks
+198,"station, suppose station, numbered station, transmitting station",0,Introduction to Computer Networks
+199,"bridge, frame port, port, port bridge",0,Introduction to Computer Networks
+200,"timeout, timeouts, timeout interval, timeout event",0,Introduction to Computer Networks
+201,"playout, playout delay, talk spurt, spurt",0,Introduction to Computer Networks
+202,"mac address, mac, adapter, address adapter",0,Introduction to Computer Networks
+203,"wimax, mobile wimax, wimax network, known wimax",19,Software-Defined Networking (SDN)
+204,"source, destination, router advertisement, outgoing line",0,Introduction to Computer Networks
+205,"data rate, rate, overhead, rate adaptation",13,Network Routing and Switching
+206,"encoding, ascii, encoded, ascii character",0,Introduction to Computer Networks
+207,"sequence number, window, sequence, number",0,Introduction to Computer Networks
+208,"downstream, upstream, mbps downstream, upstream downstream",0,Introduction to Computer Networks
+209,"sha, hash, hash algorithm, cryptographic hash",0,Introduction to Computer Networks
+210,"quality service, quality, service, based quality",16,Quality of Service (QoS)
+211,"collision, probability collision, equal probability collision, collision chosen",0,Introduction to Computer Networks
+212,"mac address, mac, address field, address",0,Introduction to Computer Networks
+213,"fsm, fsm description, description, fsm figure",0,Introduction to Computer Networks
+214,"frame, bit frame, bit, error",0,Introduction to Computer Networks
+215,"vlr, hlr, visited network, visited",19,Software-Defined Networking (SDN)
+216,"authentication, authentication protocol, authorization, simple authentication",0,Introduction to Computer Networks
+217,"communication, communication possible, communicate, communication people",0,Introduction to Computer Networks
+218,"spam, mail, spammer, junk",0,Introduction to Computer Networks
+219,"tcp, tcp implementation, tcp us, ip product",1,Network Models and Protocols
+220,"forwarding, generalized forwarding, generalized, assured forwarding",13,Network Routing and Switching
+221,"access protocol, multiple access, multiple access protocol, random access",10,Network Security and Threats
+222,"connection, connection establishment, establishment, establishing connection",0,Introduction to Computer Networks
+223,"case, case case, consider case, case likely",0,Introduction to Computer Networks
+224,"hot potato, potato, hot potato routing, potato routing",13,Network Routing and Switching
+225,"tcp ip, model, ip model, tcp ip model",1,Network Models and Protocols
+226,"modem, cable modem, minislots, minislot",0,Introduction to Computer Networks
+227,"application buffer, client application, client application buffer, buffer",2,Network Topologies and Architectures
+228,"web server, web, companion website, website",2,Network Topologies and Architectures
+229,"audio, low, high low, audio http",16,Quality of Service (QoS)
+230,"envelope, body, smtp, header",0,Introduction to Computer Networks
+231,"label, flow label, path label, different label",2,Network Topologies and Architectures
+232,"samplertt, estimatedrtt, samplertt value, value",0,Introduction to Computer Networks
+233,"consider figure, figure consider figure, consider figure consider, figure consider",0,Introduction to Computer Networks
+234,"aloha, slotted aloha, slotted, efficiency slotted aloha",21,Network Design and Planning
+235,"handoff, base station, base, station",0,Introduction to Computer Networks
+236,"ipv datagram, datagram format, ipv, ipv datagram format",0,Introduction to Computer Networks
+237,"attack, bad guy, guy, security",22,Wireless Security
+238,"xml, xhtml, html, language",0,Introduction to Computer Networks
+239,"data sent, data transmitted, transmit data, data",13,Network Routing and Switching
+240,"gsm, mobile phone, phone, europe",0,Introduction to Computer Networks
+241,"file, large file, file host, host sending",0,Introduction to Computer Networks
+242,"congested link, share, bandwidth, equal",0,Introduction to Computer Networks
+243,"flooding, flood, link state update, state update",0,Introduction to Computer Networks
+244,"handshake, threeway, way handshake, threeway handshake",0,Introduction to Computer Networks
+245,"discus, discus discus, ter discus, tion discus",0,Introduction to Computer Networks
+246,"ad hoc, hoc, ad, ad hoc network",19,Software-Defined Networking (SDN)
+247,"shortest path, shortest, path, compute shortest path",0,Introduction to Computer Networks
+248,"probability, slot, probability node, slot probability",0,Introduction to Computer Networks
+249,"burst, burst error, burst length, error",0,Introduction to Computer Networks
+250,"form, post, method, post method",0,Introduction to Computer Networks
+251,"example let, example let look, let look, look example",0,Introduction to Computer Networks
+252,"host host, host, channel host, channel host host",0,Introduction to Computer Networks
+253,"message, message message, want reply message, want reply",0,Introduction to Computer Networks
+254,"idle, channel idle, idle station, channel idle station",0,Introduction to Computer Networks
+255,"public key, public, key, key ring",13,Network Routing and Switching
+256,"chip sequence, chip, sequence, chip sequence station",0,Introduction to Computer Networks
+257,"illustrated figure, illustrated, figure illustrated figure, figure illustrated",0,Introduction to Computer Networks
+258,"capacity receiver, sender, receiver, rate",21,Network Design and Planning
+259,"procedure, parameter, procedure described section, procedure described",0,Introduction to Computer Networks
+260,"door, socket, client, serversocket",2,Network Topologies and Architectures
+261,"path, path length, path taken, path shown",0,Introduction to Computer Networks
+262,"id, signaturebased, signature, snort",0,Introduction to Computer Networks
+263,"toll, office, toll office, ixc",0,Introduction to Computer Networks
+264,"mtu, path mtu, mtu discovery, path mtu discovery",0,Introduction to Computer Networks
+265,"compression, decompressing, compression algorithm, later data",13,Network Routing and Switching
+266,"osi, osi model, model, osi reference model",1,Network Models and Protocols
+267,"option, choice, choose option, choose",0,Introduction to Computer Networks
+268,"ear, frequency, audibility, threshold audibility",0,Introduction to Computer Networks
+269,"token, ring, token ring, ring protocol",0,Introduction to Computer Networks
+270,"internet, internet internet, world internet, internetwork",5,TCP/IP Protocol Suite
+271,"bursty, traffic, burst, burst traffic",16,Quality of Service (QoS)
+272,"delay, packetization, processing delay time, connected router connected",0,Introduction to Computer Networks
+273,"error rate, bit error rate, bit error, error",0,Introduction to Computer Networks
+274,"base station, base, wireless host, wireless",9,Wireless Networking
+275,"formula, infinity, approach infinity, formula let",0,Introduction to Computer Networks
+276,"kbps, speech, uncompressed, voice",0,Introduction to Computer Networks
+277,"multipath, fading, multipath fading, path loss",0,Introduction to Computer Networks
+278,"bridge, lan, multidrop, join",8,Ethernet and LAN Technologies
+279,"tcp ip, protocol tcp, tcp ip protocol, ip protocol",5,TCP/IP Protocol Suite
+280,"process, client process, process server, process client",4,Network Layers and the OSI Model
+281,"traffic, traffic destined, destined, originates unit traffic",16,Quality of Service (QoS)
+282,"design, property, worked long huge, large nonetheless",21,Network Design and Planning
+283,"distribution time, distribution, minimum distribution, minimum distribution time",0,Introduction to Computer Networks
+284,"letter, plaintext, common letter, trigram",0,Introduction to Computer Networks
+285,"node, frame node, transmitting frame node, transmitting frame",0,Introduction to Computer Networks
+286,"wireshark, wireshark lab, lab, sniffer",0,Introduction to Computer Networks
+287,"section described, discussion, described section, section described section",0,Introduction to Computer Networks
+288,"method, method method, approach, niche let",0,Introduction to Computer Networks
+289,"networking, student want, recommendation student want, recommendation student",24,Emerging Trends in Networking
+290,"ond, ond strategy, ond requirement, onds",0,Introduction to Computer Networks
+291,"encrypted, ek, plaintext, encrypting",0,Introduction to Computer Networks
+292,"internet radio, radio, iptv, radio station",5,TCP/IP Protocol Suite
+293,"nonce, mics, nonce value, protocol us nonce",0,Introduction to Computer Networks
+294,"sender figure, figure sender, figure receiver, figure",0,Introduction to Computer Networks
+295,"advantage, benefit, strategy advantage advantage, advantage advantage",0,Introduction to Computer Networks
+296,"router crash, crash, router, router discarded",0,Introduction to Computer Networks
+297,"integrity, message integrity, confidentiality, message integrity technique",0,Introduction to Computer Networks
+298,"switch, connection switch, term bridge switch, switch interchangeably",0,Introduction to Computer Networks
+299,"nrz, manchester, manchester encoding, encoding",0,Introduction to Computer Networks
+300,"hop, time live, counter, time live field",0,Introduction to Computer Networks
+301,"area, border router, border, area border router",0,Introduction to Computer Networks
+302,"introduction introduction, introduction, introduction introduction introduction, introduction introduction medical",0,Introduction to Computer Networks
+303,"router figure, fig router, router fig router, router fig",0,Introduction to Computer Networks
+304,"analogy, analogy section, teacher student, clearer",0,Introduction to Computer Networks
+305,"address block, ispsrus, block address, block",0,Introduction to Computer Networks
+306,"army, blue army, blue, blue army attack",0,Introduction to Computer Networks
+307,"tsap, tsap address, portmapper, stable tsap address",0,Introduction to Computer Networks
+308,"social, social network, facebook, twitter",19,Software-Defined Networking (SDN)
+309,"security, security mechanism, danger information, danger information leaking",22,Wireless Security
+310,"sonet, carrier, sonet sdh, packet sonet",0,Introduction to Computer Networks
+311,"group, working group, working, divided working",4,Network Layers and the OSI Model
+312,"secure email, email, secure, pgp",12,VPN (Virtual Private Network)
+313,"example example, example example example, example, exist course",0,Introduction to Computer Networks
+314,"nsf, nsfnet, backbone, nsfnet backbone",0,Introduction to Computer Networks
+315,"analog, digital, digital transmission, adc",3,Network Devices and Hardware
+316,"switch, frame interface, filtering, forward frame",0,Introduction to Computer Networks
+317,"jpeg, image, subsequent image, redundancy",0,Introduction to Computer Networks
+318,"beacon, sleep, ap, wake",0,Introduction to Computer Networks
+319,"key, whitening key, whitening, key key",13,Network Routing and Switching
+320,"ecn, congestion, explicit congestion notification, congestion notification",0,Introduction to Computer Networks
+321,"slot, tdm, time slot, frame tdm",0,Introduction to Computer Networks
+322,"gbn, gbn protocol, gbn sr, sr",0,Introduction to Computer Networks
+323,"distance vector routing, vector routing, vector, distance vector",13,Network Routing and Switching
+324,"repeat, forever, line process, data point",13,Network Routing and Switching
+325,"subtypes, subtype, type, subtype field",0,Introduction to Computer Networks
+326,"value value, value, recommended value, use value",14,VLANs (Virtual LANs)
+327,"nr, seq, expected, frame expected",0,Introduction to Computer Networks
+328,"ike, sa, ike sa, ipsec",0,Introduction to Computer Networks
+329,"routing protocol, intradomain, interas, interdomain",13,Network Routing and Switching
+330,"ack, syn, syn ack, synack",0,Introduction to Computer Networks
+331,"execute, program, executable program, executable",0,Introduction to Computer Networks
+332,"bridge, hash table, manual configuration, inside bridge",14,VLANs (Virtual LANs)
+333,"file transfer, throughput file, throughput file transfer, throughput",0,Introduction to Computer Networks
+334,"work, work work, job work, privilege guess paul",12,VPN (Virtual Private Network)
+335,"connectionless, connection oriented, oriented, connectionless service",16,Quality of Service (QoS)
+336,"transmission, transmission method, pin, base station",3,Network Devices and Hardware
+337,"proxy, proxy proxy, cleartext, web site",12,VPN (Virtual Private Network)
+338,"cocktail party, party, cocktail, partygoer",0,Introduction to Computer Networks
+339,"reorder, order sent, reorder message, corrupt",0,Introduction to Computer Networks
+340,"suppose, xr suppose, xr, suppose ususuunn suppose",0,Introduction to Computer Networks
+341,"switch figure, switch table, uppermost switch figure, uppermost switch",0,Introduction to Computer Networks
+342,"wep, equivalent privacy, wired equivalent, wired equivalent privacy",12,VPN (Virtual Private Network)
+343,"network core, core, edge, network edge",24,Emerging Trends in Networking
+344,"security, security service, security functionality, provide security",22,Wireless Security
+345,"audio, audio video, video, sound",0,Introduction to Computer Networks
+346,"network performance, performance, measurement, measuring",23,Network Performance Optimization
+347,"kbps, ran, kbps kbps, bit kbps",0,Introduction to Computer Networks
+348,"receive receive, sent, sent faster version, sent perth complete",0,Introduction to Computer Networks
+349,"information, information information, hope information, hope information need",0,Introduction to Computer Networks
+350,"diffserv, phb, diffserv architecture, marking",2,Network Topologies and Architectures
+351,"window, window update, update, sends window update",0,Introduction to Computer Networks
+352,"tree, zebra, tree tree, search begin",0,Introduction to Computer Networks
+353,"capacity, capacity megabit, increase capacity, demand",21,Network Design and Planning
+354,"discussed section, discussed section discussed, section discussed section, section discussed",0,Introduction to Computer Networks
+355,"pp, peer, file, distributing file",2,Network Topologies and Architectures
+356,"answer, following question, answer following question, answer following",0,Introduction to Computer Networks
+357,"fec, forward error correction, forward error, interleaving",0,Introduction to Computer Networks
+358,"protocol shown, fig protocol, protocol shown figure, protocol shown fig",0,Introduction to Computer Networks
+359,"sequence number, sequence, sequence number frame, number frame",0,Introduction to Computer Networks
+360,"networking, design, network designer, innovation",21,Network Design and Planning
+361,"content, content distribution, content distribution network, distribution network",19,Software-Defined Networking (SDN)
+362,"stopandwait, stop wait, wait protocol, wait",0,Introduction to Computer Networks
+363,"code, advanced code, simple code, block code",0,Introduction to Computer Networks
+364,"udp, socket programming, clientserver application, udp client",5,TCP/IP Protocol Suite
+365,"acknowledgement, receipt, end acknowledgement, end end acknowledgement",0,Introduction to Computer Networks
+366,"joe, florida, orlando, gas station",0,Introduction to Computer Networks
+367,"true false, true, false, true false true",0,Introduction to Computer Networks
+368,"station, transmits frame, frame, station transmits frame",0,Introduction to Computer Networks
+369,"ethernet frame, ethernet, frame ethernet, frame ethernet frame",8,Ethernet and LAN Technologies
+370,"mime type, mime, type, existing association",0,Introduction to Computer Networks
+371,"packet lifetime, lifetime, maximum packet lifetime, maximum packet",0,Introduction to Computer Networks
+372,"mobility, nomadic, situation laptop, gain access",10,Network Security and Threats
+373,"voice, voice data, digital voice, data traffic",16,Quality of Service (QoS)
+374,"sin, fourier, co, amplitude",0,Introduction to Computer Networks
+375,"multiplexing, inverse multiplexing, inverse, multiplexing section",0,Introduction to Computer Networks
+376,"message fig, fig message, message shown, fig message shown",0,Introduction to Computer Networks
+377,"sends frame, trying send, frame, frame sender",0,Introduction to Computer Networks
+378,"transmission rate, link transmission, rc, link transmission rate",3,Network Devices and Hardware
+379,"ellen, dean, marilyn, letter",0,Introduction to Computer Networks
+380,"session key, session, key, session key computed",13,Network Routing and Switching
+381,"choke packet, choke, choke packet reach, required reduce",0,Introduction to Computer Networks
+382,"replay attack, replay, attack, defend replay attack",0,Introduction to Computer Networks
+383,"mpls, label, label switching, multiprotocol label",13,Network Routing and Switching
+384,"quantum, quantum cryptography, photon, cryptography",24,Emerging Trends in Networking
+385,"internet traffic, cisco, majority internet, traffic video",16,Quality of Service (QoS)
+386,"multiple bit, padded, length, message bit",20,Network Virtualization
+387,"access point, point, access, building access point",10,Network Security and Threats
+388,"follow, follow route, packet follow, route",0,Introduction to Computer Networks
+389,"trudy, trudy trudy, trick, got",0,Introduction to Computer Networks
+390,"happens happens, happens happens happens, happens, happen",0,Introduction to Computer Networks
+391,"tape, magnetic, ultrium tape, magnetic tape",0,Introduction to Computer Networks
+392,"host sends segment, sends segment, host sends, segment host",14,VLANs (Virtual LANs)
+393,"public key, certificate, public, certification",12,VPN (Virtual Private Network)
+394,"tollbooth, caravan, car, car caravan",0,Introduction to Computer Networks
+395,"network management, software, subramanian, network application",15,Network Management and Troubleshooting
+396,"army, war, army problem, soldier",0,Introduction to Computer Networks
+397,"buffer, bd, offered load, ac",0,Introduction to Computer Networks
+398,"sneaky, consumer, online, sale",0,Introduction to Computer Networks
+399,"bridge, spanning tree, spanning, tree",0,Introduction to Computer Networks
+400,"route, route route, lie, rest route discover",0,Introduction to Computer Networks
+401,"terminal, hidden terminal, terminal problem, hidden",0,Introduction to Computer Networks
+402,"check bit, bit check bit, bit check, bit",0,Introduction to Computer Networks
+403,"chunk, peer, chunk peer, torrent",2,Network Topologies and Architectures
+404,"nak, sender time, frame, eventually sender",0,Introduction to Computer Networks
+405,"udp streaming, streaming, udp, video",5,TCP/IP Protocol Suite
+406,"ethernet frame, ethernet frame containing, bob laptop, switch delivers",8,Ethernet and LAN Technologies
+407,"match, guarantee, guarantee hard, hard match short",0,Introduction to Computer Networks
+408,"finish, finish time, time packet, round",0,Introduction to Computer Networks
+409,"message authentication code, authentication code, message authentication, mac",0,Introduction to Computer Networks
+410,"macroblock, previous frame, macroblocks, previous",0,Introduction to Computer Networks
+411,"checksum, checksummed, checksummed frame, checksum recomputed",0,Introduction to Computer Networks
+412,"close, close connection, wait connection, client close",2,Network Topologies and Architectures
+413,"thermostat, appliance, laptop, console",0,Introduction to Computer Networks
+414,"power, power management, electrical power, management",15,Network Management and Troubleshooting
+415,"dhts, hash table, distributed hash, distributed hash table",0,Introduction to Computer Networks
+416,"gbps, mbps ethernet, mbps, gbps ethernet",8,Ethernet and LAN Technologies
+417,"export, export license, license, government",0,Introduction to Computer Networks
+418,"point point link, point link, pointtopoint, point",0,Introduction to Computer Networks
+419,"error detection, detection correction, error detection correction, correction",11,Firewall and Intrusion Detection Systems
+420,"age seq, seq age, seq age seq, age seq age",0,Introduction to Computer Networks
+421,"topology, topology shown, topology fig, view example",0,Introduction to Computer Networks
+422,"dtrans, dtrans time, dprop, suppose dprop",0,Introduction to Computer Networks
+423,"communication channel, underlying channel, channel, assumed error",0,Introduction to Computer Networks
+424,"kerberos, needham schroeder, schroeder, needham",0,Introduction to Computer Networks
+425,"transit, transit traffic, transit service, balance",16,Quality of Service (QoS)
+426,"id sensor, id, sensor, intrusion",11,Firewall and Intrusion Detection Systems
+427,"multiplexing demultiplexing, demultiplexing, multiplexing, transportlayer multiplexing demultiplexing",0,Introduction to Computer Networks
+428,"time lr, lr, entire packet, bit router",0,Introduction to Computer Networks
+429,"saw section, saw section saw, section saw section, section saw",0,Introduction to Computer Networks
+430,"shift keying, keying, shift, amplitude",0,Introduction to Computer Networks
+431,"socket, network application, socket programming, berkeley",19,Software-Defined Networking (SDN)
+432,"msec, second packet, packet msec, spacing",0,Introduction to Computer Networks
+433,"come come, come, thing go resigning, thing go",0,Introduction to Computer Networks
+434,"wireless, technical challenge, challenge, distinction challenge posed",9,Wireless Networking
+435,"buffer, receiver, dedicate, buffering",0,Introduction to Computer Networks
+436,"array, state array, state, min",0,Introduction to Computer Networks
+437,"hash, hash function, hash hm, creates message",0,Introduction to Computer Networks
+438,"case shown, figure case, case shown figure, shown figure case",0,Introduction to Computer Networks
+439,"rack, simultaneous flow, host rack, simultaneous",0,Introduction to Computer Networks
+440,"learned section, section learned section, section learned, learned section learned",0,Introduction to Computer Networks
+441,"network layer ready, layer ready, network layer, ready event",4,Network Layers and the OSI Model
+442,"receiver, wait low power, initially receiver, interested knowing number",0,Introduction to Computer Networks
+443,"roundabout, car, exit, ramp",0,Introduction to Computer Networks
+444,"destination, address destination, destination ip, destination address",5,TCP/IP Protocol Suite
+445,"polling, master node, polling protocol, node",0,Introduction to Computer Networks
+446,"zigbee, personal area network, personal area, zigbee network",19,Software-Defined Networking (SDN)
+447,"isolation, class, isolation class, providing isolation",0,Introduction to Computer Networks
+448,"packet loss, loss, packet loss probability, loss probability",0,Introduction to Computer Networks
+449,"itu, tor, tor itu, itu tor",0,Introduction to Computer Networks
+450,"range, range range, older block range, range negligible",0,Introduction to Computer Networks
+451,"packet containing, bit suppose, packet byte, containing",0,Introduction to Computer Networks
+452,"sublayer, mac sublayer, mac sublayer protocol, sublayer protocol",0,Introduction to Computer Networks
+453,"peering, relationship, advertisement, peering relationship",0,Introduction to Computer Networks
+454,"aloha, slotted, slotted aloha, aloha protocol",0,Introduction to Computer Networks
+455,"metcalfe, boggs, metcalfe boggs, network metcalfe boggs",19,Software-Defined Networking (SDN)
+456,"mapping, possible mapping, mapping possible mapping, mapping possible",0,Introduction to Computer Networks
+457,"reverse path forwarding, reverse path, path forwarding, reverse",13,Network Routing and Switching
+458,"context switch, kernel, context, receiving process",4,Network Layers and the OSI Model
+459,"drop packet, router drop packet, router drop, drop",0,Introduction to Computer Networks
+460,"ascii, character, ascii representation, letter uppercase",0,Introduction to Computer Networks
+461,"format, output format, output format long, format long unambiguous",0,Introduction to Computer Networks
+462,"pp, pp architecture, architecture, minimal reliance",2,Network Topologies and Architectures
+463,"rtp, rtp stream, stream, audio video",0,Introduction to Computer Networks
+464,"adapter, aging time, address fefa, fefa",0,Introduction to Computer Networks
+465,"cell, frequency, neighboring cell, frequency reused",0,Introduction to Computer Networks
+466,"server executes, executes, listen, establish connection",2,Network Topologies and Architectures
+467,"common factor, number chosen, force suitable value, suitable value common",0,Introduction to Computer Networks
+468,"wave, earth, band, lf mf band",0,Introduction to Computer Networks
+469,"hop, metric, distance hop, execution instance",0,Introduction to Computer Networks
+470,"blocked, traffic blocked, network allowed, host traffic",16,Quality of Service (QoS)
+471,"movie, metafile, linked, step",0,Introduction to Computer Networks
+472,"scenario, scenario shown figure, scenario shown, shown figure scenario",0,Introduction to Computer Networks
+473,"broadcast, broadcast lan, connected broadcast, broadcast link",8,Ethernet and LAN Technologies
+474,"region, hierarchy, cluster, hierarchical routing",13,Network Routing and Switching
+475,"packet size, overhead, small packet, small packet size",0,Introduction to Computer Networks
+476,"routing table, initial routing table, initial routing, table",13,Network Routing and Switching
+477,"router router, packet source, packet make, hop",0,Introduction to Computer Networks
+478,"multimedia, multimedia networking, networking, support multimedia",24,Emerging Trends in Networking
+479,"knapsack, weight, object, algorithm knapsack algorithm",0,Introduction to Computer Networks
+480,"index, index distributed, distributed, peer",2,Network Topologies and Architectures
+481,"city, philadelphia, toronto hong kong, toronto hong",0,Introduction to Computer Networks
+482,"error, error correcting code, correcting code, error correcting",0,Introduction to Computer Networks
+483,"mechanism, studied section, machinery resolution, mechanism driven need",7,DNS (Domain Name System)
+484,"symbol, volt, represent bit, volt represent",0,Introduction to Computer Networks
+485,"movie, music, movie rental, sharing",0,Introduction to Computer Networks
+486,"turn, processed turn wrong, problem way dealing, unecessary",0,Introduction to Computer Networks
