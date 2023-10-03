@@ -1,4 +1,4 @@
-Topic,Description,Keywords
+Topics,Description,Keywords
 Introduction to Operating Systems,"This foundational topic provides an overview of operating systems, encompassing their crucial role in managing computer resources, providing user interfaces, and enabling the execution of software applications. It introduces key concepts like process management, memory allocation, and I/O handling. ","OS fundamentals, process management, memory allocation, file systems, resource management."
 Operating System Structures and Components,"This area explores the intricate structures and components that constitute an operating system. It includes the kernel, system libraries, device drivers, and user interfaces. Understanding these components is essential for comprehending how an OS functions. ","OS architecture, kernel, system libraries, device drivers, user interfaces."
 Computer System Structures,"In this topic, we delve into the overall structure of computer systems, encompassing hardware components like CPUs, memory, and peripherals. ","CPU architecture, memory hierarchy, storage devices, peripherals."

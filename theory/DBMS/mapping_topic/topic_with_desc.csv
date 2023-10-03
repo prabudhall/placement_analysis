@@ -1,4 +1,4 @@
-Topic,Description,Keywords
+Topics,Description,Keywords
 Introduction to Database Management Systems,"An in-depth exploration of Database Management Systems (DBMS), covering their foundational principles, architecture, and their vital role in data management, storage, and retrieval within organizations. ","DBMS introduction, data management, architecture, data storage, data retrieval."
 Relational Database Model,"A comprehensive examination of the relational database model, encompassing its core components such as tables, attributes, relationships, and the practical application of SQL as the primary query language. ","Relational database, data tables, attributes, data relationships, SQL queries."
 Database Design and Normalization,"Detailed insights into the art of database design, emphasizing the significance of normalization techniques in enhancing data integrity, reducing redundancy, and improving overall database efficiency. ","Database design principles, normalization techniques, data integrity enhancement, redundancy reduction, database efficiency."
